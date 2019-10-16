@@ -1,0 +1,129 @@
+Exam logistics
+  - Multiple choice ONLY on final
+  - Only one hypothetical scenario is on this exam
+    - With a couple questions relating to this hypothetical
+  - Cover everything except libel, only goes up to hate speech
+  - Start at 4:10 Wed sharp and end at 5:25 sharp
+  - Open book, bring in personal notes (typed up notes are ok) and textbook
+    - Laptops are allowed, but he would recommend printing
+    - No Internet connection
+  - Possible to have multiple issues in the same sentence
+  - Sample question: Analyze the different claims
+    - Prompt will not go line by line and ask what x means
+  - When citing cases, make sure it's clear what the case is, don't necessary need
+    to write the entire name out
+
+Things to expect on the exam
+  - How to write exam answers: IRAC (Issue Rule Application Conclusion)
+    - Spotting the issue in scenario
+    - What is the rule of law and what case does it come from?
+      What is the standard we are following
+    - Rules are unambiguous, but the application is ambiguous
+  - Example: Going up to Trump and calling all Republicans dickheads
+    - Issue: Is calling dickheads fighting words, and is it protected?
+    - Rule: Fighting words standard
+      - Directed at person (Cohen)
+      - Lead to violence (Chaplinsky)
+    - Application
+      - Weigh whether or not rule applies and why
+      - Make sure to reference cases since Chaplinsky, since the bar has been raised
+        through several more recent cases
+      - Could say that "Republicans" is more narrow than Cohen, and thus could
+        apply as being directed
+    - Conclusion
+      - Which side does this fall under? Is this protected speech? Is statute constitutional?
+      - Do not want wishy washy answer: Court or outcome will lean this way
+      - It is fine to talk about ambiguity (that is important) but make sure to say what the position is
+  - Writing style (not like a history paper)
+    - Be as methodical and efficient at possible
+    - Be brutally efficient at answering as many issues as possible, this is because
+      the hypothetical will have a TON of issues, and you will not have time to write
+      all of them
+    - Once issue is done, go on to the next one, don't mull and continue to add
+      elaboration, etc
+  - If there is a question dealing with Columbia, it will be made clear if Columbia
+    or the private institution has a policy waiving its ambiguity around the 1A compliance
+  - Pay special attention to federal v state distinctions (what is operating at
+    federal vs at state level)
+    - 14th amendment applies 1st to state level, but don't need to know about
+      incorporation for exam
+  - How much description should go towards the issue & rule?
+    - If it's straightforward, then keep it short
+    - If complex then elaborate
+  - Don't focus on dissents when talking about cases
+  - If running low on time, make sure to hit as many points as possible, but
+    there are style points
+    - Won't lose points on irrelevant cases, but you're wasting time
+  - Don't cite laws that have been overruled (like clear and present danger test)
+    - Like don't waste time talking about Holmes and dissent, and talk about Brandenberg
+      since that is the modern day test
+  - FSC has interesting angles and insights that could be useful in offering alternative
+    angles, but not necessary
+    - Don't spend too much extra time revising FSC essays
+    - Black letter law is in the textbook, FSC will be relevant in the final but
+      not useful for black letter law
+  - Scenarios will all be on current understandings, not on knowing laws in say 1950
+  - When making citation, make sure it's relevant to that case
+
+Substantive Questions
+  - What does imminent mean? -> Can either use pure logic based on facts
+    or relating it to a case
+    - e.g Brandenberg is meant to be super protective, and Brandeis idea that there
+      is opportunity for counterspeech to come into play
+  - Lewd Speech (vs Indecent Speech)
+    - Lewd and indecent doesn't really have a significant difference
+    - Lewd vs obscenity
+      - Lewd speech is offensive to "reasonable" people: "should really just
+        calm the fuck down and make me a sandwich".
+      - Doesn't comply with reasonable community norms
+      - Obscenity deals with specifically sexual content
+    - Fighting words v Lewd
+      - Fighting words is meant to provoke someone into hostile response
+      - Lewd speech does not necessary have a provocation quality; it may or may
+        not be low value speech
+        - Grotesquely offensive speech
+  - Does low value means unprotected speech
+    - No categorical definition or rule for low value speech
+  - Strict scrutiny
+    - When dealing with protected constitutional right (protected speech),
+      if it does not fall under 1A exception, a law can still be good if it passes
+      strict scrutiny (does States justification for the law compelling),
+      does is means that the law uses the narrowest possible means
+    - e.g shutting hate speech is compelling in St Paul, but there is something
+      narrower that would work
+    - Almost unheard of for law to pass strict scrutiny
+    - Where to cite is: RAV v St Paul
+    - Issue spotter will unlikely be applying strict scrutiny, since it is almost
+      always comes out to be that the speech is protected
+  - Chaplinsky is still good law, but its threshold is significantly higher now
+    than it was in that case
+    - Whitney is only case we've seen that's been explicitly overruled
+    - Be careful about using Dennis, since it's almost entirely been supplanted by
+      Brandenberg, so don't cite it
+    - NYT and Hustler, group libel theory does not exist
+  - Current law for fighting words is still Chaplinsky
+    - But must note the more recent cases in that line that indicate threshold is higher
+  - Pacifica: For broadcast channels
+    - Social contract in terms of any broadcast that uses spectrum
+    - However, if you are newspaper, there aren't a huge amount of limitations of what you
+      can put out in reason
+    - Broadcasters use government borrowed spectrum, and have stricter limitations
+      on speech
+    - This is one of those cases that's now narrower compared to when it was decided
+      because of cases since then
+  - Finer
+    - This case hasn't been explicitly overruled yet
+    - Eventual hostile audience doctrine, the judges talk about how there was much
+      more differences from Finer
+    - Finer is still good law
+  - The cases Bollinger spent the most time on are the ones you should care about
+    the most
+
+Hypothetical on website
+  - Issue: Advocacy of illegal conduct
+    - "Oh and if anyone feels like vandalizing
+      Bollinger's house, none of us are going to stop you either"
+    - Brandenberg test
+  - Issue: Obscenity with the genitalia on Bollinger's head
+  - Issue: Fighting words with "bring this dickhead down", etc
+    - Could also be lewd speech

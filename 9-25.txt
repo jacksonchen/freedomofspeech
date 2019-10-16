@@ -1,0 +1,44 @@
+Case: Rally in Central Park to support abortion rights. The crowd is super
+  supportive of the speaker. A guy comes up to the group, 30 feet away and yells:
+  "You're a bunch of fucking bloody murderers". Is this speech protected by
+  the 1A?
+
+*Always ask what the relevant cases are*
+
+Argument that speech is protected:
+  - Cohen v California:
+      - Cohen wore a jacket with "Fuck the draft" written on the back.
+      - There was no threat or engagement of violence.
+      - It was at a courthouse (i.e a public building/space), outside the courtroom.
+      - There were children around
+      - Arrested under California statute for disrupting the peace and quiet via
+        offensive conduct
+
+      - Court held that CA cannot prosecute Cohen for this context
+        - Held that this was not an obscenity case (note: obscenity is an exception to 1A),
+          because it must have an erotic element to it (which this case doesn't)
+        - Cohen was not directing it towards anyone in particular
+        - Pure vulgarity that isn't directed is perfectly fine, i.e protected by 1A:
+          Harlan's majority opinion in Cohen case: "One man's vulgarity is another man's lyric"
+
+What we know about the 1A
+  - Restraining applies to federal and state actors
+  - Applies to public spaces
+  - Exception for libel
+  - Exception for obscene speech
+  - Exception for fighting words
+  - Other "obvious" exceptions
+    - Securities law and insider trading, etc
+    - Premeditating murder
+
+Subsequent cases to Cohen (fighting words doctrine)
+  - Personally insulting words are not exempt from 1A protection
+
+Why did the Court rule that vulgarities are okay?
+  - Slippery slope argument: We don't have a good way of drawing a line without
+    running an unacceptable risk that it would lead to further speech restrictions
+    that we do find acceptable
+  - Human nature that people in power want to destroy all contrary beliefs
+
+  Burger's mission is to formulate an obscenity test -- more specific
+    but allows greater prosecution

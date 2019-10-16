@@ -1,0 +1,156 @@
+====== State vs Federal Law ======
+
+Federal Court System
+  District Courts -- Geographic jurisdiction, generally at least one per state
+    - Create records of the facts
+  Circuit Courts -- Appellate Court, 13 circuits across the country
+    - Also regional jurisdiction (the California circuit rulings will not
+      apply to the East Coast)
+    - If different Circuits come to different decisions, then it's called a
+      split decision
+  Supreme Courts -- Also Appellate Court
+
+  - Limited jurisdiction (only limited to Constitution and federal statutes)
+    - Federal question
+    - Diversity (issue amongst multiple states)
+
+State Court System
+  - General jurisdiction
+  - Can still decide questions at the federal level, appeals from the
+    State Supreme Court would go directly to the Supreme Court
+
+Appellate Cases
+  - Facts given in cases in appellate courts are the plain facts, no more
+    fact gathering needed
+  - Does the law apply, and how so?
+
+Institutional role of morality
+  What judges can do
+    - Who wins, and why?
+    - Announce (and create new) law
+      - Creates **precedent**
+        - This is an internal constraint for judges -- they have to behave
+          according to certain principles & norms, otherwise they would be
+          charged with making stuff up
+        - However, when there is no precedent (1919 1A cases), the judges
+          effectively have to make stuff up
+    - Supreme Court can come up with tests, but new fact patterns will always change
+      - e.g First Amendment -- What counts as speech? Especially with new media
+    - What they use to make decisions
+      - Constitutional Text
+      - Precedent, history
+      - Philosophy & common sense (don't seem to matter that much in Constitutional
+        law)
+    - 1A since 1970, not much free-floating philosophizing (already have huge
+      body of case law) -- huge emphasis on precedent & case law
+    - If there's new fact patterns -- need to analogize facts with previous cases
+      and beholding to general principle
+    - Whenever you make an argument, you are expected to provide reasons for why
+      you are right. Legal argument is limited because of case law, statutes,
+      Constitution, the history, etc
+
+  What activists can do
+    - Even more limited than a judge, since you're trying to convince them
+      that based on stuff they said, you're right
+    - Anticipating your opponent and their reasoning (and why it's wrong)
+
+Civil law vs Common law
+  - Common law -- past judicial precedent and rulings affect the ruling at hand
+    - UK, US, Australia
+  - Civil law -- certified ordinances that govern the land (i.e precedent is
+    not as important)
+    - Most of Europe, Africa, South America (except Guyana), Japan, China
+
+Stare Decisis
+  - Settled expectations as a reliance for a stable system
+  - Having consistent and predictable development of labeled principles
+    - When precedent is often overturned, then it makes everyone confused
+    - If cornerstone case is overruled, a lot of new laws and statutes have
+      to be made
+  - Requires precedent to be followed
+  - All states and lower courts are bound by Supreme Court decisions
+
+Importance of precedent
+  - Judges cannot overturn precedent just because they don't like it
+  - By adhering to precedent, it limits the power of the judiciary esp in
+    very politically testing times
+  - What are the good reasons to overturn precedent?
+    - Circumstances that the original decision was made is indefensible
+    - The original decision was clearly "wrong"
+    - It should *not* be the law of the land
+    - It's causing a lot of harm to a group or certain groups
+    - The precedent is simply unworkable (not an effective way to continue
+      forward in making a body of case law)
+    - Or the precedent has been eroded by subsequent decisions
+
+How to make legal arguments
+  - Simplest form: Have the law, apply it to a set of facts, and this yields an outcome
+  - Example: Illegal to rob a bank; Sarah robbed a bank; Sarah broke the law
+
+  - How to show what the law is
+    - Constitution (text or various forms of interpretation)
+    - Statutes (laws passed by a Congressional body either state or federal level)
+    - Precedent (old cases)
+      - A lot of rules aren't found in statutes and the Constitution (e.g
+        "clear and present danger" rule)
+  - When making an assertion of the law, make sure to cite the relevant authority
+  - The holding
+    - Def: The pithy statement of what the case says
+    - e.g: "Clear and present danger" rule is the holding of that case
+  - Applying the rule/law to the case
+    - Reasoning by analogy: In case x the Court found that someone borrowing things
+      and forgot to return them is a clear and present danger; since Sarah's case
+      is very similar to that, thus the outcome should be the same
+    - Why reasoning matters
+      - e.g A house is a dwelling if you live there for a significant period of time
+      - What is a significant period of time?
+        - Case A says 30 days is not significant bc it's a typical vacation time-length
+  - Use holdings, facts, and underlying reasoning to make the case
+  - Stylistically, keep the argument simple and concise
+
+Case Brief
+  - Summary of the case, generally subjective
+  - Includes key facts, procedural posture, holding, and other major takeaways
+    - Name of the case and what court the case was in + time
+    - Key facts (what facts are legally relevant)
+    - Procedural history (procedural posture)
+      - What courts has the case been through
+      - What did the lower courts find and what basis
+      - What kind of relief has been granted?
+    - Issue and holding
+    - Reasoning (why the court decided the case it did, will be used for future
+      fact patterns)
+    - Dissents/concurrences: Not binding law, but a good basis for policy arguments
+      or distinguishing future cases
+  - e.g Masses Publishing Co v Patten
+    - Passes (Plaintiff) produced the revolutionary journal "The Masses",
+      which included satire ...
+    - Patten (Defendant) is the Postmaster general who wanted to limit the distribution
+      of the journal
+    - P applied for a preliminary injunction to forbid D from refusing to
+      issue their journal in the August issue
+    - D objected that Masses violated the Espionage Act of 1917
+    - Issue: Was P entitled to a preliminary injunction, or did D have authority
+      to prohibit its mailing under Espionage Act of 1917 (Should hostile
+      criticism ever be tolerated in our system of gov't)
+    - Holding (Hand): Yes, P is entitled to a preliminary injunction. i.e hostile
+      criticism is okay as long as ...
+    - Reasoning: Arousing anti-war sentiment may be insubordination, but a
+      broad reading of the Act to prohibit such political agitation would
+      suppress all hostile criticism. As long as one stops short of urging
+      upon others that is their duty or interest to resist the law, one should
+      not be held to have attempted to cause its violation
+    - Aftermath: Hand's opinion was reversed and Masses was driven out of business
+      and editors prosecuted under Espionage Act. But Hand's opinion influenced
+      many free speech cases to come
+  - One brief per case
+
+Citations
+  - <Case Name>, <Volume No> <Reporter Abbrev> <1st Page of case>, <Pinpoint> (<Court> <Decision Year>)
+  - Plaintiff comes first, however in appellate cases, the defendant could be
+    the petitioner, etc
+  - Pinpoint is the page you actually refer to
+  - If the Court isn't in the geographic jurisdiction of the case, then this citation
+    is likely used as persuasion rather than as set law
+    - Don't need the Court name if the reporter abbreviation is US (US Reports)
+      or SC (Supreme Court Reports), since it is implied to be the Supreme Court

@@ -1,0 +1,99 @@
+Constitutional Law Book: Content-Based Restrictions
+  - Conditions that restrictions to free speech may occur
+    - Speech that may harm audience to engage in unlawful conduct
+      - Draft dodging (Espionage Act 1917 and Sedition Act 1918)
+        - Masses Publishing Co vs Patten
+          - Masses published social satire and political criticism. August issue
+            would be denied access to mail under the Sedition Act by the Postmaster
+            because "one may not counsel or advise others to violate the law as it stands".
+          - Political agitation may "stimulate men to the violation of law"
+          - But the judge ruled that the materials did not advocate resistance to the draft
+            - "One may admire and approve the course of a hero without feeling any duty to follow him"
+            - "stops short of urging upon others that it is their duty or their interest to resist the law"
+          - "The Hand formula is overprotective of the clever inciter" -> if the
+            inciter is clever enough to avoid use of incitement language (1348)
+          - Hand also is "overprotective of dangerous speakers" (such as telling mobs
+            information that incites violence)
+        - Schenck v US
+          - Made documents that claimed that citizens had the right to resist the draft,
+            and that it is their duty to resist the draft as well
+          - "When a nation is at war many things that might be said in time of peace
+            are such a hindrance to its effort that their utterance will not be endured so
+            long as men fight, and that no Court could regard them as protected by
+            any constitutional right" (1345)
+          - Clear and Present Danger -- Shouting fire in a theater; but this doesn't
+            take intent into account (what if it was true?)
+        - Frohwerk v US
+          - Frokhwerk was convicted under Espionage Act of 1917 for his articles
+            declaring the war a mistake, and calling the war "outright murder" (1350)
+          - Judge Holmes: 1A "cannot have been, and obviously was not, intended to give
+            immunity for every possible use of language" (1350)
+          - "On the record it is impossible to say that it might not have been found
+            that the circulation of the paper was in quarters where a little breath
+            would be enough to kindle a flame" (1350)
+        - Debs v US
+          - Eugene Debs was convicted under Espionage Act of 1917 for obstructing
+            enlistment
+          - Supreme Court upheld the conviction stating that speech that opposed
+            the war and its "probably effect" was not protected
+          - In particular, Holmes pointed out Debs praised people who were convicted
+            of encouraging others to refuse induction
+          - No reference to "clear and present danger"
+        - Gitlow v New York
+          - Gitlow was indicted for criminal anarchy for being in a radical leftist
+            org that published a manifesto on overthrowing the US government
+          - Majority opinion
+            - Statute does not penalize publication of abstract "doctrine" or
+              academic discussion having no quality of incitement to any concrete action
+              (1360)
+            - However, the Manifesto was concluded to not to be an abstract doctrine
+              or academic discussion -- uses "fervent language mass action" (1360)
+            - The state "seeks to extinguish the spark without waiting until it has
+              enkindled the flame or blazed into the conflagration" (1361) -> hence
+              why the New York statute is legal
+          - Holmes & Dissenting opinion
+            - Manifesto has no present danger to overthrow the government
+            - "Every idea is an incitement"
+            - First Amendment "experiment" (see below)
+          - Questions that this case presents
+            - Holmes discusses a marketplace of ideas -- where ideas are experiments
+              that get tested in the market. However, as some evils so grave that
+              we cannot afford to experiment?
+            - The idea of governance is that the citizens make decisions as to how
+              they should be governed, and 1A is to prevent those in power from
+              preventing citizens from expressing new ideas to govern -- why should
+              the government make these judgement calls?
+    - Speech that threatens harm to others
+    - Speech that provokes a hostile audience response
+    - Speech that discloses confidential information
+
+Free Speech Century
+  - Dialogue
+    - Free speech "experiment" (from Justice Holmes)
+      - Chilling effect -- An individual does not have much incentive to use free
+        speech, but a group has much bigger effect, causing government to
+        intimidate to silence critics
+      - Pretext effect -- Gov't officials will defends restrictions on speech
+        differently from their real motives (such as suppressing political thought)
+      - Crisis effect -- During times of crisis, intolerance will grow; Court needs
+        to structure 1A to anticipate and guard against the worst of times
+  - First chapter
+    - Hand, Holmes, and Brandies spent a lot of time invalidating laws passed
+      by political majorities
+      - This set them up to eventually set up 1A jurisprudence (against majority rule)
+      - Hand saw freedom of speech as a "majority creating procedure rather than
+        an individual right" (14)
+        - In Masses case, he proposed a test where the message conveyed should be
+          evaluated, not the predicted consequences of the speech or the
+          speaker's illicit intent -> otherwise the democratic state would be able
+          to control speech
+        - However, most successful political movements in the US started through
+          calls for illegal action, and Hand's test fails to cover those
+        - Hand was significant in determining the boundary b/w protected and
+          unprotected speech
+    - Holmes
+      - "Clear and present danger" test
+        - Falsely shouting "Fire!" in a theater
+      - Marketplace of ideas metaphor
+      - Voted against Debs in stating his situation wasn't a fundamental free speech
+        principle but a "matter of proximity and degree"

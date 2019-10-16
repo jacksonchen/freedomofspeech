@@ -1,0 +1,80 @@
+Midterm
+  - First thing, identify *all* the issues presented by the hypothetical
+    - What are the 1A issues presents by the case?
+      - List all 1A issues, and then check if each one applies to hypothetical
+  - Make the problem as complex as you can
+    - To overcome the instinct of "this is the answer"
+    - There should be a judgement, but you need to be able to elaborate what the
+      arguments on each side is
+  - Will never have enough time to answer the question fully
+    - Allocate time properly
+
+  - What to know about the cases
+    - Don't have to know the names
+    - But need to know the critical cases, the facts, and Court's judgement, and
+      the Court's doctrine/tests
+      - Know what preceded this case (including overruled ones)
+  - Arguing against an existing case: State that the status quo is there, but
+    the current case is different (compared to that case), and requires a different
+    test
+
+Case: Don Jr using cocaine
+  - Established Sullivan NYT lays framework for thinking about this
+    - Requirements from that case:
+      - Speech about public officials that contain false statement of fact that
+        damages their reputation can only be the subject of a civil tort lawsuit
+        when the plaintiff can show that press/defendant published this false
+        statement with actual malice (knowing of its falsity or of reckless disregard)
+
+  - Argument for Don Jr that this fulfills actual malice
+    - Basic journalistic standards
+      - Reporter, when receiving this story, should contact the person (Don Jr) and
+        give them the opportunity to response
+      - Argue that this falls so far below journalistic practice that it is classified as
+        "reckless disregard"
+      - Can argue against the democracy point (in the counterpoint below) that
+        the boundary set is way too far, and that the public forum is going to be
+        filled with falsehoods, vicious lies about people (about which they have
+        no legal redress), will lead to irresponsible people governing,
+        we will get people in power who don't care and are insensitive,
+        and get a discourse that is highly damaging to a functioning society
+      - Press in 1960's was a monopoly, allowing us to control public debate through
+        an economic restraint, people with values are able to win out against those
+        who don't. Today, it has completely changed, anyone -- including the Russian
+        government -- are able to have a voice in our debates today
+  - Counterpoint (argument this is fine)
+    - St Amant says not following journalistic practice does not constitute reckless disregard
+      - Need some conscious awareness that what you're saying is false
+    - Sullivan asked to look at the bigger picture and look at how a democracy really functions,
+      in order to make sure that people feel free and ready to participate in public debate,
+      you must give them space to make errors. You must protect people are who behaving
+      below any standard we are comfortable with, since we value robust, uninhibited
+      debate.
+  - Other arguments for Don Jr
+    - Don Jr is not a public official, but a public figure, and thus Sullivan
+      doesn't apply
+    - Don Jr didn't choose to run for president, he just tweets on politics
+  - Counterargument that Don Jr is not a public official
+    - Don Jr is closely aligned and briefed on issues of national interest, and
+      thus he should be designated as a de facto public official
+    - Gertz v Welch extends Sullivan to public figures as well as public officials
+      (thus need to show actual malice to prosecute for libel)
+      - For private individuals, just needs to show negligence for libel
+      - How does the Court define a public figure?
+        - If plaintiff purposely throw themselves into public controversy, then
+          they would be classified as a public figure (then must show actual malice)
+        - "All-purpose public figure": People who are so famous and influential that
+          they are always a public figure/official (Court emphasizes these are
+          rare people)
+        - "Involuntary public figure": An issue may be so powerful and the person
+          who suffers libel just has to accept it
+          (for our purposes, we can ignore this)
+      - In the Gertz case, he (Gertz - attorney in high profile cases) was not
+        held to be a public figure, because he is just doing his profession
+        even though he's doing high-profile cases
+        - Every time the Court tried to answer who is a public figure, they've
+          said no and kept the definition extremely narrow
+    - Is the cocaine use a public issue?
+    - Sullivan, Gertz are only applicable when it's a false statement of fact
+      that is injurious to someone
+  - Value of discussion around public officials (US v Alvarez, Firestone case)

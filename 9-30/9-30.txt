@@ -1,0 +1,71 @@
+How does the Supreme Court deal with a speaker that advocates for people to commit a crime?
+  - Started answering this question in 1919 with a couple cases (Debs, Schenck, and Frohwerk)
+    - Literally no cases reached the Supreme Court on 1A before 1919
+    - Cases started popping up because of the draft since Congress passed the Espionage
+      Act of 1917
+    - Bolshevik Revolution happens in 1917 as well, makes people scared of Communist Revolution
+    - Lots of new social movements (women's rights, rise of anarchism), causes lots of
+      panic and insecurity => causes the state to arrest speakers
+    - The original test was the "bad tendency" test
+      - Not very protective, easy to stretch any speech to cause a tendency for bad behavior
+    - Then Learned Hand's "Express incitement" test
+    - In these entry cases, the Court raised a first test:
+      - Holmes' dissent clear and present danger test
+        - Danger is serious, and is very immediate
+        - However, this is actually fairly weak test (see Schenck, Frohwerk, Debs)
+      - However adoption of Holmes' test didn't happen immediately
+  - In the 30-40's, more cases start to take the stronger Holmes' version of the test
+  - In the 50's, Dennis case happens. Supreme Court weighs the gravity of evil (overthrowing the whole gov't)
+    discounted by probability
+  - Brandenberg in 1960's
+    - Consolidation into very strong free speech protection
+    - Is the speech directed at producing "likely, imminent lawless action"?
+    - People think it's a mix of Learned Hand and clear and present danger
+    - Yet Dennis isn't overruled, so future cases solidify and further strengthen 1A
+
+Case: President wants to a new "No more fowl language" campaign and to expel students
+  that say a certain 4 letter word
+  Prezbo says that four letter word isn't necessary -- just look at any publication made within Columbia
+
+Argument that this is unconstitutional
+  - Cohen vs California
+    - Foul language is okay because it expresses emotions (expressive speech)
+  - Supreme Court cannot restrict ideas in the marketplace, and thus cannot restrict words
+
+FCC vs Pacifica
+  - (note this is AFTER Cohen) Supreme Court said that FCC can fine a broadcaster/radio station
+    for airing indecent language (in this case a monologue that mocked public attitudes
+    towards dirty words)
+  - Court ruled it is okay to restrict words to a specific time of day
+  - Consequences of this ruling: Unlike public speech, for radio and TV, a
+    government org is allowed to sanction certain words. Why is this?
+    - TV and radio are generally in a private space (generally in the home)
+    - The reason why private space isn't allowed but public space is allowed is that
+      there is a difference of expectation (expected to run into this stuff in public
+      but not in your own home)
+    - Why should speech be restricted if user can just turn off radio/TV?
+      - Broadcast is an exception because of its "unique" presence in the home
+    - Presence of children around the house is a special factor in TV and radio
+      - Why isn't this a regard in Cohen? (i.e in public spaces)
+      - Value for society to allow open debate in public outweighs the interest
+        of parents and children
+
+Why is hate speech protected in the US?
+  - Fact: Hate speech is protected in the US (bigoted speech against religion,
+    ethnicity, gender, color, etc)
+
+  - Better that hate speech is out in the open because it can be dealt with
+  - This is a viewpoint and you can't shut down viewpoints
+    - Bad argument since this speech is meant to be restricted because of the viewpoint
+  - By drawing lines, the government can stretch the lines to shut down speech it does not like
+    - Virginia v Black: Court held it was permissible to ban cross-burning
+      if it can be shown that it was intended to intimidate
+      - The Court brings out the concept of a genuine threat (another exception to 1A)
+  - Illinois vs Beauharnais
+    - Court ruled for a hate speech ban
+      - Can't stop the State from wanting decent order
+    - This cases was decided in the 50's before 1A became much more protective
+    - Scholars say this is no longer Court law
+  - However, hate crimes don't hold this protection and can be prosecuted more harshly
+
+Next class will be libel

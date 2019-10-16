@@ -1,0 +1,63 @@
+Case: Anonymous phone call Don Jr is a regular user of cocaine. Should we publish?
+  (from last class)
+
+Argument for:
+  - Sullivan case: Needs actual malice ("gross recklessness" or definitive knowledge
+    that it's fake)
+    - Doctrine: Statements against public officials that are proven false needs
+      to reach a standard of actual malice
+
+    - Case:
+      - It was against a police commissioner -- not quite against a police officer
+      - NYT runs an advertisement by Civil Rights group that tries to raise money
+        in Alabama (height of the Civil Rights movement in America)
+      - Falsehood: King was arrested fewer times than he was,
+        "Dining hall was padlocked" which wasn't true,
+        reason why students were expelled was also false
+      - Civil case
+        - Differences with criminal: Criminal has imprisonment; criminal cases
+          brought by the state and has to be violating US code
+          - Has to prosecute someone (prove something beyond reasonable doubt),
+            while civil cases have a lower bar
+          - Criminal has a jury trial
+      - This is a civil case on tort (some person's personal rights have been violated
+        by another person and you hold them liable for damages)
+        - Someone, typically, acting negligently (below some standard of care) causes
+          injury to another person, that person can sue for damages
+        - Classic example: Someone drives a car negligently and hits another car,
+          the other person can sue as a tort to recover damages for the car and personal injury
+      - In this case, it is libel and defamation
+        - If false statement of fact that is "of and concerning" an individual and it
+          injures your reputation, then you may be able to recover damages.
+        - Those damages could be psychological, or monetary (losing job)
+      - Under Alabama tort law, Sullivan would have had to prove what libel is per se
+        - "False statements" hence libel under Alabama, and the average person would
+          read it and think less of Sullivan
+        - When defendant does something and causes damages, I am able to recover it
+          without having to show that the person doing it fell below some standard
+          - Normal standard of behavior - the standard of care that reasonable people
+            would have exhibited (otherwise known as negligence)
+          - Alabama cares a lot about reputation, thus you don't need to show the
+            defendant fell below a bar
+      - Sullivan wins the Appeals case
+      - NYT wins the Supreme Court case and say there's no damages, also set out new standard:
+        - "Of and concerning" is not strong enough for libel cases
+        - Needs to be proof of actual malice
+        - When it comes to criticism or commentary about public officials, you cannot
+          be held libel for damages or false statements of fact about that public official,
+          unless if the official can show that you made that false statement of fact with
+          actual malice, meaning not malice in the dictionary sense, but you know
+          what you were saying was false, or you published it in reckless disregard
+      - Holmes in Abrams v Sullivan: Sullivan emphasizes freedom of speech and press to
+        democracy and self-governance, while Holmes talks about value of freedom of speech
+        and press to the truth (broadly)
+      - Rosen: Holmes set 1A on bad course by talking about search for truth,
+        because 1A is really about the town hall and citizens are the ultimate sovereign
+        - For thousands of years, people thought the power of the state rested in a king
+          or queen (they were the sovereign), what American introduced was to take
+          that sovereign power and put it in the hands of citizens
+    - If you are the sovereign, you cannot have an agent for the citizens block speech
+    - Central meaning of 1A - sovereignty lies in the public and in the citizens, and
+      they deserve full protection to exercise their self-governing rights
+    - Court feels is has to be judicious and reserved
+      - 

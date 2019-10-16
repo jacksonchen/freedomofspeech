@@ -1,0 +1,101 @@
+Speech that Provokes a Hostile Audience Reaction
+  - To what extent does 1A protect speaker whose expression provokes a "breach of peace"?
+  - Terminiello v Chicago
+    - Terminiello convicted of disorderly conduct while giving speech to 800 people
+      (there were 1000 protesters outside). His speech caused members of the crowd
+    - Jury instructed to convict if found his speech included expression that
+      "stirs the public to anger, invites dispute, ..."
+    - The Court found this instruction violated 1A. Speech is meant to invite dispute
+  - Cantwell v Connecticut
+    - Cantwell played a phonograph record on the street that attacked Catholicism
+      to people he met on the street
+      - Hearers were highly offended
+      - He was charged with inciting a breach of the peace
+    - Court found that provocative language that breached peace consisted of
+      "profane, indecent, or abusive remarks directed to the person of the hearer"
+      - In his case, Cantwell didn't threaten personal abuse, bodily harm, etc
+      - Exaggeration/falsification is okay
+      - He was also in a public street, and asked for permission to play the phonograph
+      - Court overturned his conviction
+    - "When clear and present danger of riot, disorder, interference with traffic upon
+      the public streets, or other immediate threat to public safety, peace, or order,
+      appears, the power of the State to prevent or punish is obvious"
+  - Feiner v New York
+    - Petitioner was making a speech to a mixed race crowd deriding public officials,
+      and also telling black people to rise up to fight for their rights
+      - Police officer told him to stop 3 times, petitioner refused, then was arrested
+    - Convicted for breach of peace
+    - Court majority opinion: This situation constitutes "clear and present danger
+      of riot", thus the conviction is affirmed
+    - Justice Black (dissent): Doesn't believe the crowd's action constituted a
+      risk to riot/disorder.
+      - "I reject the implication of the Court's opinion that the police had no
+        obligation to protect petitioner's constitutional right to talk"
+      - Police before interfering with lawful public speaker must make "reasonable
+        efforts to protect him"
+      - "Petitioner was entitled to know why he should cease doing a lawful act.
+        Not once was he told"
+    - Future cases
+      - Edwards v South Carolina: Black students walked in public State House grounds
+        to protest racial inequality. Police arrested them.
+      - Court overturned the conviction, stating that it "was a far cry" from Feiner
+      - "A far cry" from Feiner might serve to limit the precedential force of Feiner
+  - Chaplinsky v New Hampshire
+    - A member of Jehovah's Witnesses was convicted for violating a law that
+      stated that no one should offend or deride others on the street
+      - He was doing this on a busy Saturday afternoon, and the police officers claim
+        that a riot was imminent
+    - The Court opinion: Fighting words "whose very utterence inflict injury or tend
+      to incite an immediate breach of peace" are not protected
+      - The New Hampshire statute "does no more than prohibit the face-to-face" words
+        plainly likely to cause a breach of the peace by the addressee ->
+        covers fighting words, profanity, obscenity, and threats
+      - "We are unable to say that the limited scope of the statute as thus
+        construed contravenes the Constitutional right of free expression"
+    - '"Damned racketeer" and "damned Fascist" are epithets likely to provoke the
+      average person to retaliation, and thereby cause a breach of the peace'
+    - The Court affirmed the conviction
+
+What are fighting words?
+  - "Fighting words are unprotected because as "epithets or personal abuse,"
+    they are intended to inflict harm rather than to communicate ideas, and
+    thus are not really "speech" at all
+  - Burning a flag
+    - Street v New York: Burning a flag is not fighting words, thus constitutionally
+      protected: "not likely to provoke the average person to retaliation, and thereby
+      cause a breach of the peace"
+    - Texas v Johnson: Texas statute banning flag burning that offends others was
+      ruled unconstitutional since "this expressive conduct" did not fall within
+      the fighting words doctrine ("no reasonable onlooker would have regarded
+      ... as a direct personal insult")
+  - Cohen v California: Cohen wore a jacket with "Fuck the Draft" in a courthouse.
+    Court ruled that Cali statute that his jacket created a bad tendency to
+    provoke others to acts of violence did NOT apply. This is bc it is "clearly not
+    directed to the person of the hearer. No individual actually or likely to
+    be present could reasonably have regarded the words on appellant's
+    jacket as a direct personal insult" (1416)
+  - Couple other cases (e.g Gooding v Wilson) where state statutes against
+    abusive and profane language were ruled unconstitutional by 1A
+  - **Court has not upheld a conviction on basis of fighting words since Chaplinsky
+
+Hate Speech
+  - Skokie v Nationalist Socialist Party of America
+    - Nazi's trying to march in a town of Jewish survivors won their right to march
+      there due to 1A
+    - They ultimately marched in Chicago (25 people) with 400 police officers
+      defending them
+  - Snyder v Phelps
+    - Westboro Baptist Church protested at a gay soldiers' funeral. The father (Snyder)
+      sued for emotional distress. The Court affirmed they were protected
+      by 1A, since they were protesting about topics of national significance.
+    - The Court stated that you can't determine emotional distress based on "outrageousness",
+      which the lower court used to hold them liable, since it's allows "a jury to
+      impose liability on the basis of the jurors' tastes or views, or perhaps
+      on the basis of their dislike of a particular expression"
+    - Alito's dissent: He noted that there are plenty of other ways Westboro Church
+      could have express their discontent, but they may not "inflict severe emotional
+      injury on private persons at a time of intense emotional sensitivity by launching
+      vicious verbal attacks that make no contribution to public debate"
+
+Court overturned municipal rule that had permitting fees for assemblies, speakers:
+  "Speech cannot be financially burdened"

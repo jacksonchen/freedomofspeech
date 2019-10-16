@@ -1,0 +1,118 @@
+====Hate Speech and Pornography=====
+
+Beauharnais v Illinois
+  - Facts
+    - Beauharnais, white nationalist leader, organized racist leaftlet distirbution
+    - Convicted under Illinois statute saying unlawful to distribute publications
+      against certain groups that creates "breaches of peace or riots"
+    - Judge overseeing conviction refused to consider Beauharnais' offer of proof
+      on the issue of truth, and didn't tell jury to consider clear and present danger
+  - Court ruled in favor of conviction 5-4. Majority opinion:
+    - "Libelous utterances are no essential part of any
+      exposition of ideas". Drew upon Chaplinsky saying that harm of these ideas
+      outweighs any benefits it brings to "finding the truth"
+    - Court was considering if Constitution prevents States from punishing libels,
+      and decided that can since libel crimes against individuals can also be
+      applied against groups
+    - Illinois has history of racial tensions and riots
+  - Justice Black's dissent:
+    - Group libel law is effectively censorship
+  - Consequences
+    - Group libel is outside of constitutionally protected speech (because of its
+      "low value"), hence not subject to clear and present danger standard
+    - This case did not define libel as false statements of fact, but other cases
+      (NYT and Hustler) narrowed libel to be false statements of fact
+    - Why is group libel of low value?
+      - Logical extension of the fighting words doctrine from Chaplinsky
+      - Cannot seriously be maintained that 1A meant to protect speech that
+        "portrays depravity, criminality, unchastity, or lack of virtue of
+        a class of citizens"
+
+Hate speech
+  - How can one argue for censorship of hate speech without supporting McCarthyism?
+    - Racial hate speech is a doctrine that is uniformly/universally rejected
+  - Hate speech doesn't work in the marketplace of ideas, because the marketplace
+    assumes an equal starting line for everyone
+  - US pure speech jurisprudence of accepting hate speech is anomalous internationally
+  - Counterpoint: Every proponent of speech regulation through the generations have
+    argued against what ended up being fundamental constitutional values (think draft
+    dodgers)
+    - "Everyone struggle for freedom of expression has been a great struggle
+      against racist tyranny in the US"
+
+RAV v City of St Paul
+  - Petitioner burned cross on black family's lawn, violating city ordinance
+    against racially motivated actions that "arouse anger, alarm or resentment"
+  - State Supreme Court upheld conviction since "arouse anger, ..." falls under
+    fighting words in Chaplinsky, hence narrowing the scope of the ordinance
+  - The Court's opinion (written by Scalia)
+    - Reversed the conviction: unconstitutional because it "prohibits speech
+      solely on the basis of the subjects the speech addresses"
+    - Libel can only be proscribed that is critical of the government
+    - Also the class of speech can only be content-neutral (e.g can prohibit
+      obscenity that is patently offensive in its prurience, but can't only
+      ban sexual speech that includes offensive political messages)
+    - The ordinance applies the fighting words doctrine to specific political issues,
+      which is not a content neutral ban of the fighting words
+    - St Paul argued that this viewpoint discrimination served a compelling
+      state interest. The Court thinks the interest is compelling, but because of
+      the alternatives available (doing a broad fighting words ban), this specific
+      route was not necessary
+  - Dissent (Judge White, Blackmun, OConnor):
+    - Speech with no value is justification to ban categories of speech, but not
+      justification to ban certain viewpoints. Contradictory.
+    - The ordinance is unconstitutional because just provoking offense is not
+      enough to ban speech (e.g Cohen v California), thus is way too broad
+  - Judge Steven's dissent:
+    - Reads the ordinance not as a ban on certain content but a ban on injuries
+      caused to specific categories of people, which is constitutional
+
+Wisconsin v Mitchell
+  - Mitchell, who is black, urged a group of blacks to assault a white boy,
+    so he was convicted of assault. But his sentence was lengthened because the
+    attack was seen as racially motivated.
+  - Wisconsin Supreme Court ruled racial motivation as unconstitutional because
+    it treats people differently based on their beliefs
+  - Court overturned Wisconsin ruling since this conduct is not expression,
+    and this specific conducts "inflicts greater individual and societal harm"
+  - What difference does this have with RAV? -> cross burning is speech but
+    beating an individual because of his race isn't speech?
+
+Virginia v Black
+  - Consider whether Virginia's statute banning cross burning with "an intent to
+    intimidate a person or group of persons" violates 1A
+  - A KKK rally occurred where speakers threatened violence against black people,
+    and then burned a huge cross on private property (with the owner's permission)
+    - The head of the rally found guilty by jury, who were instructed that the
+      "the burning of a cross by itself is sufficient evidence from which you
+      may infer the required intent"
+  - Supreme Court of Virginia struck down the cross burning, saying it was indistinguishable
+    from RAV v St Paul
+  - Conclusion of the Court:
+    - State may ban cross burning carried out with the intent to intimidate
+    - "Regardless of whether the message is a political one or whether the message
+      is meant to intimidate, the burning of a cross is a symbol of hate"
+    - Sometimes cross burnings only mean to intimidate and carry no message
+    - State may punish a "true threat", and the speaker need not actually intend
+      to carry out the threat, thus intimidation is a type of "true threat"
+    - "The fact that cross burning is symbolic expression does not resolve the
+      constitutional question" -> RAV content-based discrimination was bc city
+      was allowed to impose special prohibitions on speakers who express views
+      on disfavored subjects.
+    - RAV case did not prohibit all forms of content-based discrimination, but just
+      that some types of content discrimination did not violate 1A
+    - Virginia may ban specific intimidation through cross burning because of
+      the burnings "long and pernicious history as a signal of impending violence"
+    - Also held the prima facie evidence provision unconstitutional, since jury
+      just needs to show intent to burn, rather than intent to intimidate
+      (burning cross at a rally is protected)
+  - Souter, Kennedy, Ginsburg dissent in part:
+    - Banning cross burning will also ban the legitimate viewpoints that KKK
+      members have, that are not intimidatory
+
+Pornography
+  - Just banning porn that depicts subordination essentially only allowing approved
+    viewpoints, thus you cannot argue that the porn is low value
+  - Low value? -- Purpose of the speaker is relevant
+  - Chaplinsky: Fighting words are "low value" and thus do not contribute to the
+    marketplace of ideas (but Roberts Court has chiveled away at this)

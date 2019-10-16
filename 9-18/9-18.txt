@@ -1,0 +1,43 @@
+Advocacy vs Inciting -- kind of question we should be asking
+Brandenberg is where Modern 1A Theory begins
+Final exam -- hypothetical case, figure out all the possible arguments
+  - Consider stare decisis and implications that a future court is bound by your decision
+
+When to use dissenting opinions
+  - If a previous case doesn't apply or make sense (i.e needs to be overturned),
+    then the dissenting opinion is often referred to in the current case
+
+=========
+Case: White Nationalist Group speaking at a big public venue saying hateful things.
+    Protestors gather at the back of the hall, create noise and disturbance.
+    Eventually, the speaker says "let's take them down, show them what we feel",
+    the supporters start to storm the protesters. The police arrest those engaging in the assaults and also arrest
+    the speaker.
+
+    Speaker is arrested for inciting violence (speaking in a way that cause supporters
+    to engage in illegal behavior).
+
+Argument: Speech is protected
+  - Immediately begin with Brandenberg, speech isn't protected unless
+    (1) Intent, imminence, and likelihood
+  - "Imminent immediate" in Brandenberg drew from Learned Hand's "express, explicit incitement",
+    in this case, "let's take them down" was NOT explicit
+    - Just an explicit call for violence still protected by 1A
+    - Explicitly makes it effectively impossible to prosecute a case
+
+Argument: Speech is not protected
+  - "Let's take them down" while the crowd is ready to attack is by definition a call
+    for imminent lawless action that is likely
+  -
+
+Why so much emphasis in 1A?
+  Holmes' opinion in Abrams
+    - Free marketplace of ideas
+    - If you're interested in the truth, you will have to protect speech that is seen as bad
+  Mill's theory
+    - Even if something is definitively not true, it's important to allow people to
+      speak the falsehoods to keep what I believe alive
+  Democracy
+  Ability to speak is a human right, no need for it to be justified
+
+Brandeis Brief - Putting things in social and national context, the law/argument will be more persuasive

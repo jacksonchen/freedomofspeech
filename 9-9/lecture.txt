@@ -1,0 +1,58 @@
+Case: A person is angry about alumni legacy at Columbia, and gives a speech
+  at Columbia. Eventually he calls for a public takeover of the president's
+  office. University security comes up, tells him to stop, and is later
+  expelled by the university.
+
+"Clear and present danger" shows that this speech is protected (assuming Columbia
+must abide by 1A)
+  - Schenck and Debs came up during a time of war and time of panic, so the current
+    case is not comparable to those cases
+  - The circumstance here is a LOT less significant and risky than dodging
+    draft during such a time, the Court has deference to situation
+  - The importance is to distinguish between this case and those cases
+
+How the Courts understand the case is what matters the most, not what the lawyer thinks
+  - The question is is the expulsion valid, not is the speech protected by 1A
+  - For any case, question if 1A even applies at all
+
+The 1919 cases hold the in certain circumstances, the State may punish you
+(including putting you in jail) for doing nothing more than giving a speech
+about a political problem
+  - If there is a clear and present danger that the government has the right to prevent
+  - In this case it was to prevent and interfere with the conscription
+
+What is the scope/applicability of 1A? Does it apply to a private university?
+  - Courts made it clear 1A doesn't just apply to Congress, but to the entire
+    federal gov't (even though the clause explicitly says Congress)
+  - Bill of Rights only applies to fed gov't, and not to the States
+  - Is 1A applicable to states? From Gitlow and hence forth, yes.
+  - But 1st and 14th amendment do NOT apply to private actions.
+
+Columbia receives ~$500M-1B from the federal government for research
+  - Chartered by the state
+  - Receives tax-benefits for being education affiliated
+  - However, Columbia still isn't considered a "state actor". Berkeley,
+    on the other hand would be considered a state actor.
+
+Schaeffer is the lower Court case that governed 1A doctrine until 1919
+  - If gov't can show that speech has bad tendency to lead people to commit
+    illegal acts, then the speech is not protected
+  - The "clear and present danger" test is much more favorable to a speaker
+    than the "bad tendency" test from before
+
+In Masses case, Judge Learned Hand made legal liability test
+  - If you explicitly call to violate the law, then you won't be protected.
+    He knows that this is overprotective of the gov't, but he also knows that
+    if the citizen knows what to avoid, then the citizen will *always* be protected
+  - Difference with Holmes' test: Hand's test is easier to determine if the
+    law has been broken rather than "clear and present danger"
+  - Hand's logic is that "clear and present danger" is filled with prejudice,
+    so he needed a precise and clear test. He does not want people to NOT
+    give speech, and to remove any opaqueness around 1A so people are more
+    willing to give speeches.
+
+  Applying Learned Hand's test to Bollinger's case:
+    - Learned Hand would indict Bollinger because Hand's test is that
+      speech is protected until someone says it's the duty to violate the law
+    - Arguing against Hand's test would be: "there was proof that there
+      was no chance the law would have been broken"

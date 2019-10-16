@@ -1,0 +1,165 @@
+Constitutional Law
+  Abrams v US
+    - Facts
+      - Self described socialists from Russia distributed leaflets to call for a
+        general strike
+      - Convicted of conspiring to violate the Espionage Act of 1917
+    - Trial judge stated: "The only thing they know how to raise is hell, and
+      to direct it against the government of the United States." (1352)
+    - Supreme Court affirmed the convictions on (1) conspiracy "to incite, provoke
+      or encourage resistance to the United States", (2) conspiracy to urge
+      curtailment of the production of war materials
+    - Justice Holmes dissented stating that the "defendants did not have the
+      intent, required by the act, to cripple or hinder the United States in
+      the prosecution of the war" (1353).
+      - "The defendants' specific intent, Justice Holmes maintained, was to
+        help Russia, with whom we were not at war" (1353)
+      - The intent statute must take words in strict and accurate sense, otherwise
+        it would criminalize the statement "we were wasting money on aeroplanes" as
+        curtailing US war effort
+      - Doesn't see how the leaflet aims to impede the United States in a war it
+        was carrying on -- only to prevent American intervention in Russia
+      - Also thinks that you can't stop all leaflets against the US, and only
+        ones that pose an "immediate threat" need to be stopped; these guys are
+        too small and anonymous to pose any real threat regardless
+      - Marketplace of ideas
+
+    Whitney v California
+      - Whitney was part of the Communist Labor Party, whose convention she sponsored
+        a moderate resolution calling for a electoral means of achieving goals
+      - At trial, she testified it was not her intention for the CLP to be "an
+        instrument of terrorism or violence"
+      - Argued that the Syndicalism Act was an unreasonable exercise of the police
+        power of the State, and the court denied that
+      - Brandeis' opinion
+        - "This court has no yet fixed the standard by which to determine when a
+          danger shall be deemed clear" (1365-66) -> for now leave to the legislature
+        - "Every denunciation of existing law tends in some measure to increase the
+          probability that there will be violation of it"
+        - "Public discussion is a political duty" and "the greatest menace to freedom
+          is an inert people"
+        - "The wide difference between advocacy and incitement between preparation and
+          attempt, must be borne in mind" (1367)
+        - Mere voluntary assembly for a syndicate should be constitutionally protected,
+          and it can only be stopped on grounds that there is a high probability
+          of serious injury to the state -> must display a sense of clear danger,
+          and if it was imminent in order to justify the stringent restriction
+          interposed by the legislature.
+      - Consequences
+        - Persuasion principle (gov't may not suppress speech bc it is persuasive)
+        - Association in an org can be blocked, not even participating in activity
+        - Clear and present danger was the hallmark test during this period
+
+    Dennis v US
+      - Petitioners were indicted for violation of conspiracy of the Smith Act
+      - It was argued that the Communist Party was a threat to the United States gov't
+      - Court opinion:
+        - "We are squarely presented with the application of the clear and present danger
+          test, and must decide what that phrase imports"
+        - The gov't may not act until such action is "about to be executed", regardless
+          of how powerful or weak the rebellion would be
+      - Justice Frankfurter
+        - "To make validity of legislation depend on judicial reading of events still
+          in the womb of time is to charge the judiciary with duties beyond
+          its equipment"
+      - Justice Jackson: Supported conviction (despite talking about "letting off steam")
+      - Dissent
+        - Justice Black: Does not believe that Communism as an idea is inherently
+          about overthrowing the US government, and believes that "benefits derived
+          from free expression were worth the risk".
+        - Justice Douglas: "If the books themselves are not outlawed, if they can
+          lawfully remain on library shelves, by what reasoning does their use become
+          a crime?" Does not believe that Communists as a political party have any
+          significant consequence, and thus do not pose a "clear and present danger"
+      - Consequences
+        - "Gravity" dilutes the standard of "clear and present danger"
+        - Deference: If legislature expressly prohibits a certain category of
+          expression, the judiciary must defer to the legislative judgement so long as
+          it is reasonable
+        - Contemporarily, the decision is seen as a mistake as there was no proof
+          that Dennis was planning on overthrowing the US government
+        - Yates v US -- The judges narrowed down the Smith Act so federal prosecutors
+          couldn't charge anyone affiliated with CPUSA: "Advocacy of action"
+          vs "advocacy of belief"
+
+    Brandenburg v Ohio
+      - A KKK member who was charged on Ohio's Criminal Syndicalism Statute
+        (that was virtually the same as California's that took down Whitney)
+      - Ohio's syndicate law was struck down because it targeted mere advocacy
+      - Justices Douglas and Black denounced the "clear and present danger test",
+        as it turned the Dennis case into a political case
+      - Consequences
+        - This case was a contrary application compared to the Espionage Act
+          and Communist cases
+        - Required (1) express advocacy of law violation, (2) advocacy must call
+          for immediate law violation and (3) the immediate law violation must be
+          likely to occur
+        - Most stringent protections of the 1A for its time
+        - Effects learned by the Court:
+          - Chilling effect: Individual speakers gain very little by exercising free speech
+          - Pretext effect - Gov't officials will defend their restrictions of speech
+            on grounds quite different from their real motivations for suppression
+          - Crisis effect - During times of crisis, people rush to suppress speech
+            they demonize as dangerous/treasonable
+      - Later cases: "Mere advocacy of the use of force does not remove speech
+        from the protection of the First Amendment"
+      - Last 30 years since Brandenberg, not many changes to 1A cases
+        - Holder v Humanitarian Law Project
+          - Plaintiffs maintained that their speech advanced only the legitimate
+            activities of the designated terrorist organizations, not their terrorism
+          - Robert and the Court upheld that they were giving "material support"
+            to terrorists
+          - Roberts made clear that gov't couldn't regulate independent speech even
+            if it benefitted foreign terrorist organizations
+
+  Other questions
+    - Forced Disclosure does not violate the First Amendment
+    - Petitioners have a constitutional right to talk politics, but no constitutional
+      right to be a policeman
+    - A blanket prohibition of association with a group with both legal and illegal
+      aims suppressed 1A
+    - Colleges may not restrict speech or association of student groups because
+      it finds the views expressed by any group to be abhorrent
+    - Military rights are different from civilian rights
+
+Free Speech Century
+  - Every possible use of language?
+    - 1919: Schenck v US case created the "clear and present danger" test
+    - Frohwerk case
+      - Prosecuted under Espionage Act for editorials sympathizing with resistance
+        to the draft. Sentenced to 10 years in prison.
+      - Holmes concluded that the newspaper was enough to kindle a flame
+    - Holmes started the "rational basis" test for laws, where the Court would no
+      longer act as a "super-legislature" and instead just check for rational basis
+      against the Constitution -> The main exception to this is 1A, where instead
+      of checking against "rationality", "clear and present" is used
+    - Speech is not just spoken words
+      - Holmes authored many other cases that restricted speech, even though 1A
+        was never brought up in those cases
+      - Where does this stop? Insider trading? Food labeling?
+      - It can't be applied everywhere because then it won't be as effective in political
+        situations where it actually matters (dilution concerns): "We are uncertain
+        about the effects of a substantial broadening of the coverage of the First
+        Amendment, with one possibility being that such broadening will bring increased
+        protection for speech only remotely related to the core principles of
+        freedom of speech" (46)
+      - Question of coverage needs to be separate from question of protection
+  - Does Clear and Present Danger survive cost-benefit analysis
+    - Regulatory state has become cost-benefit state: if benefits would justify
+      the cost of regulation (the expected value of proceeding)
+      - Alternative is Precautionary Principle, where no cost-benefit since
+        precautions will actually eliminate harm
+    - Welfarist approach: Eliminate the speech that would actually pose harm,
+      or has costs that exceed the benefits. But this prevents speech against the unjust status quo.
+    - Other approaches
+      - Counterspeech: Required a showing of imminence, rather than use cost-benefit
+        "If there is time to avert the evil through discussion, then the
+        remedy is not forced silence, but counterspeech" (168)
+      - Likelihood: In Brandenburg, "clear" meant "likely"
+    - Defending likelihood and imminence (clear and present danger test)
+      - Quantification is difficult (hence cost-benefit is not feasible)
+        - How do you define the benefit of a speech??
+      - Risk of institutional bias
+        - Government will always have its own self interests in mind,
+          cost-benefit analysis is really easy to manipulate
+      - The test has held convincing during the time it has held sway

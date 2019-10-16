@@ -1,0 +1,58 @@
+Case: Organization (WNP) goes around the country making hateful, racist statements.
+  Whenever a mass shooting occurs, WNP issues statements expressing praise & approval,
+  claiming these people should be emulated. There's a call on the website for people
+  to take violent action.
+
+  The organization also holds a national conference on how to use weapons, making
+  bombs, etc. Is all of this activity protected by 1A?
+
+Brandenburg - "clear" means "likely"
+  - KKK rally that was broadcasted to local and national statements
+  - Prosecution against the KKK
+  - Judgement
+    - Speech is protected unless EXPLICITLY advocates illegal action
+    - Three prongs that need to be satisfied to not be protected:
+      - Express advocacy
+      - Imminent (immediate) action
+      - Likely that the imminent action would occur
+    - There is no imminence factor here, there are no people present besides
+      Klansmen and reporters, this is likely an indirect threat
+
+Boundaries of free speech
+  - In Masses, Judge Hand said only speech that explicitly advocates for violent or illegal
+    action is unprotected.
+  - Holmes and the Court uses the "clear and present danger" test
+    - Depends on the context and the facts, and the causal link between the speech
+      and the action
+    - The gov't has to prove that there is a clear danger and risk that illegal
+      behavior would happen
+    - Judge Hand doesn't like this because it gives judges way too much manipulation
+      based on their personal opinions. Thus he believed there needs to be a strict
+      and easy test.
+      - The issue with Hand's approach is that implication and indirection that may
+        be completely dangerous (and provoke action) would be let go
+      - Not using *any* context is too loose
+  - Brandenburg is seem as a mix of Hand's approach and "clear and present danger" test
+    - Not only is there a requirement that it must be dangerous and imminent, but
+      it also must be explicit
+    - This is an extremely protective interpretation of 1A
+
+Dennis vs US
+  - Communists organized, convicted under Smith Act
+  - Judgement:
+    - Speech to overthrow the government is not protected
+    - Decided on more of the gravity of the harm rather than the likelihood
+  - Viewed (like Schenck, Debs, Frohwerk) as one of the low points of 1A doctrine
+    - Brandenburg is seen as having rejected Dennis' doctrine (despite
+      not being explicitly overruled)
+
+Back to the case in hand:
+  - Applying Brandenberg's rules, this organization would be protected
+  - How to argue that in this case, the speech is not protected
+    - In 1960 in Brandenberg, KKK was a minor threat to society despite being
+      a terrible organization
+    - Today, a new white nationalist movement that is rising that is posing a much
+      larger danger to society than the KKK did in Brandenberg (e.g current
+      mass murderers)
+    - When a new organization is rising with lots of power and potential to cause
+      harm, the government must step in

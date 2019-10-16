@@ -1,0 +1,84 @@
+Case: Climate change activist in front of large crowd.
+  "We must take the law in our own hands" -- if need be,
+  some buildings must be blown up in the next week.
+
+  In public park in Manhattan
+
+  Tenor of the crowd
+    - Enthusiastic, "we agree"
+    - Rowdy and pushy, explicitives were thrown
+
+Argument that this is protected
+  - What 1A problem is this: speech advocating illegal action
+  - Brandenberg case
+    - Did Brandenberg mean to show incitement is an explicit part of the test? Not sure
+    - "Except where such advocacy is directed to inciting or producing
+      imminent lawless action and is likely to incite or produce such action" (1385)
+    - Brandenberg Test: Likely to incite imminent lawless action
+      - This test was first framed through "clear and present danger"
+
+If the Central Park case was modified where the speaker started delegating roles
+  to blow things up to members of the audience...
+
+Argument that speech would still be protected
+  - This speech is still not imminent, thus fails the Brandenberg test
+    - This is because there is time for there to be counterspeech to dissuade the
+      audience. This is a public setting where this can be done
+  - Police would have good reason to watch members of the audience assigned,
+    and even to help intervene
+
+----------------
+New Case: Meet a group of friends in my apartment. I say "it's time we commit
+  some acts of violence". All my friends were persuaded. I say "over the next
+  month, we will provide a cell of violence on behalf of climate change". My directions:
+  - John will blow up this building
+  - Sally will set fire to x
+
+Note that I didn't call for anything to be done imminently
+
+However, this speech would not be protected
+  - This fails the imminent test (compared to the Central Park case above),
+    because there is no room for counterspeech -- done in a private setting.
+    - Speech that is part of the criminal process (e.g counseling for murder)
+      is NOT protected
+  - What's done here in the private speech is *too dangerous* and also lacks of value
+    to public debate (public realm of search for truth)
+    - The more public the speech, the stronger the protection it has
+    - This is also why shouting "Fire" in theater doesn't contribute to the public
+      search for truth
+
+----------------
+New case: Standing up on Low, "you should have this spray can and write something
+  obscene to the administration on the steps". People are really excited about
+  this idea and all take out their spray cans. Police arrest the speaker.
+
+Argument that the speech is protected
+  - The case is diff from above since here we concede that the illegal action
+    here was imminent
+  - Brandeis and Whitney cases: 1A is extremely protective about speech under
+    the rationale of searching for truth, until the point where it's just about
+    to lead to *grave* illegal action
+  - This situation isn't grave at all, hence we should err towards protecting the speech
+
+New Case: White Nationalists vs the protestors. Lots of yelling.
+  Police officer comes up to me and tells me to stop. I say "fuck you"
+
+Argument that the speech would be protected
+  - Cohen v California
+  - Even though the crowd was rowdy and was volatile, the State (i.e the police)
+    have to deal with that. Thus, the speaker should be allowed
+    - Otherwise the heckler's veto doctrine (if the State used negative response
+      of audience to speaker's idea as a basis of saying if the speech can continue
+      or be protected) -- 1A meant to protect speaker from State and audience
+  - In fact, speaker should be protected -- people who are threatening violence
+    against the speaker are the ones to be arrested
+
+Consequences of the cases
+  - Government will err towards peace and nonvolatility. 1A is a restraint against
+    the government from doing this
+  - Cohen v California started to put limits to Chaplinsky v New Hampshire
+  - Court keeps saying it depends on the circumstances for shutting down speech
+    for threatening violence, different cases have different ruling
+
+Moving away from cases deciding if speaker should be protected for inciting illegal
+  acts to cases where it's the audience reaction determining if speaker should be stopped
