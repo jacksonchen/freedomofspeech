@@ -1,0 +1,56 @@
+Case: We are reporting at Spec. Massive cheating scandal at Columbia with ringleaders,
+  our source is there and we assure that we will protect them. After a bit, national
+  media picks this up and is "yet another example of how corrupt our university system is".
+  Bollinger is called by the State Attorney who is looking into this as a legal matter,
+  and is required to testify. We now represent the Spec Reporter and Bollinger.
+  Reporter promised to protect source by "never revealing her name to anybody"
+
+How does Spec argue against revealing the identity of the whistleblower?
+  - Assume no subpoena has been issued
+  - Undermines the credibility of the newspaper as no one will want to reveal more
+    information to them, also undermines the media's ability to function
+  - Cohen v Cowles
+
+  - What is subpoena has been issued? How to continue to argue against
+    - 1A includes the right not to speak -- in this case Spec does not
+      want to reveal identity of the source
+      - Branzburg v Hayes invalidates this 1A right to not speak
+    - Not really much the press can do in that situation
+
+Principles of Press Privilege:
+  - No legislation for reporters to claim privilege differently from ordinary citizens
+  - Justice Powell's opinion in Branzburg:
+    - It must be a criminal case for reporter to lose privilege
+    - Motive of the prosecutor must be shown to abuse the power of prosecution
+      for a vindictive motive, then the press is protected
+  - Powell's opinion is generally accepted as the standard today
+  - Legislation
+    - There exists statutes in states that give reporters protection under certain
+      conditions when facing state prosecution
+    - Federal Shield law -> legislative rights for reporters; never passed
+
+    Grand Jury proceeding
+      - Secretive proceeding meant for criminal proceedings under the public record
+        where officials must seek jury approval before going forward with criminal prosecution
+      - In theory, means of protecting ordinary Americans from being charged with
+        crimes by out of control prosecutors
+
+    1960 - 1975 lots of 1A activity
+      - 1972 Branzburg v Hayes
+      - Brandenberg
+      - Sullivan
+      - Pentagon Papers
+
+    Cohen v Cowles
+      - State law against breach of contract
+      - Source revealed something on the promise of confidentiality. The Court
+        ruled that this constituted a contract.
+      - Court rules 1A does not bar a suit against a reporter for disclosing information
+        that the reporter promised not to disclose.
+
+Case: Forcing the White House to turn over transcripts
+  - Case for: Richmond Newspapers Case
+    - Court held that the government cannot close off the court to the public
+      and the press who want to attend
+    - There is a 1A right to be there and attend
+  - Case against: 

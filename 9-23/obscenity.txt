@@ -81,11 +81,11 @@ Miller v California
       (b) Whether the work depicts or describes, in a patently offensive way, sexual
           conduct specifically defined by the applicable state law
       (c) Whether the work, taken as a whole, lacks serious literary, artistic,
-          political, or scientific value 
+          political, or scientific value
     - Sex and nudity on film exhibited in public should be treated like live sex and
       and nudity exhibited in public
       - "Patently offensive depictions or descriptions must have serious literary, ... value
-	 to merit 1A protection" 
+	 to merit 1A protection"
     - Also held that issues of what is "prurient interest" and "patently offensive" is too
       vague for such a vast nation, and thus out of the Court's purview and up to the states
     - Uphold the Roth case holding that "obscene material is not protected by 1A"
@@ -184,7 +184,7 @@ US v Stevens
   - Alito's dissent:
     - The government also has a compelling interest to prevent torture of animals, specifically
       crush videos, meaning that all the arguments of Ferber apply here: (1) Underlying crimes could 
-      not be combated without targeting the distribution, (2) also value of the content is 
+      not be combated without targeting the distribution, (2) also value of the content is
       questionable
 
 Brown v Entertainment Merchants Association
@@ -213,137 +213,3 @@ Brown v Entertainment Merchants Association
     - "What sense does it make to forbid selling to a 13yo a magazine with an image of a nude
       woman, while protecting a sale to that 13yo an interactive video game where he actively,
       but virtually, binds and gags the woma, then tortues and kills her?"
-
-----Section on lewd, profane, and indecent speech-----
-
-Cohen v California
-  - Cohen wore a jacket bearing "Fuck the Draft" in a public courthouse. Women and children
-    were present. He did not engage or threaten anyone
-  - Cohen was convicted for "maliciously and willfully disturbing the peace or quiet of any
-    neighborhood or person by offensive conduct"
-  - Court's opinion
-    - Reversed the conviction
-    - The question of the conviction was based on the offensiveness of words he used
-      - Not an obscenity case, since it "must be in some significant way erotic"
-    - On the question on if he violated the fighting words doctrine from Chaplinsky,
-      "no individual actually or likely to be present could reasonably have regarded the words
-      on appellant's jacket as a direct personal insult".
-      - Also no chance of a group hostile reaction here
-    - People could "avoid further bombardment...by simply averting their eyes"
-      - Wasn't a case of him blasting this down a residential street, i.e no substantial
-	privacy interests were being invaded
-    - 1st and 14th amendment disable States from punishing public utterance of "fuck"
-      in order to maintain what they regard as a suitable level of discourse
-      - Hearing verbal tumults and offensive utterances are "necessary side effects of the
-	broader enduring values which the process of open debate permits us to achieve"
-      - "Government officials cannot make principles distinctions in this area that the
-	Constitution leaves matters of taste and style so largely to the individual"
-    - "Fuck the draft" also contains inexpressible emotions, which is embodied in 1A
-    - Particular words also can't be banned without running a slippery slope of suppressing ideas
-
-Why should profanity be protected?
-  - Profanity has high 1A value because it is expressive, while obscenity does not have that
-  - Profanity is distinct from fighting words -> must be unambiguous invitation to a brawl
-  - Nothing in the Constitution compels us to listen to or view any unwanted communication,
-    whatever its merit
-    - Shutting off distribution because of offense is not meritable, since speech (or mail)
-      could be avoided with low effort
-
-Erznoznik v Jacksonville
-  - Jacksonville ordinance that declared a public nuisance for any drive in movie theater to
-    exhibit any motion picture with nude body parts visible from any public street or place
-    - City's argument is protecting citizens against unwilling exposure
-  - Court's opinion
-    - Ordinance is invalidated since burden falls on the viewer to "avoid further bombardment
-      of his sensibilities by averting his eyes" (from Cohen)
-    - City's attempt to protect children is unwarranted since it is not directed at sexually
-      explicit graphics, but any visibility of nude body parts in any context (even if it's
-      inoffensive)
-  - Burger dissented
-    - Averting eyes is unreasonable in this situation with a huge public screen
-    - This screen is more likely to divert attention and cause accidents
-
-FCC v Pacifica Foundation
-  - NY radio station broadcast "Filthy words" in the afternoon, which had every profanity availble
-  - FCC, after a complaint, found it as a nuisance, and announced broadcasters may not air
-    language that dscribes sexual, excretory activities in terms that are patently offensive
-    as measured by contemporary community standards during daylight time.
-  - Court's opinion
-    - Upheld the FCC, since FCC objected only in the way in which Carlin express those ideas,
-      and was not objecting to the idea itself
-    - The ease at which children of all ages were able to access broadcast justify "special
-      treatment of indecent broadcasting"
-    - Exposing the monologue to hours when fewest unsupervised children would be exposed is okay
-    - "Commission's holding does not prevent willing adults from purchasing Carlin's record,
-      from attending his performances, or, indeed, from reading the transcript reprinted
-      as an appendix to the Court's opinion
-  - Dissent by Justice Brennan and Marshall
-    - "The radio can be turned off"
-    - Weight not granted to people who want to listen to such offensive broadcasts
-    - "Court's result violates the principle of Butler v Michigan that the government may not
-      reduce the adult population to reading only what is fit for children"
-
-Profanity on radio
-  - Banning fleeting explitives was not allowed (FCC v Fox Television Stations) because it
-    violates due process
-
-Sable Communications Inc v FCC
-  - Federal statute prohibited interstate transmission of "indecent" commercial telephone
-    messages (dial a porn services)
-  - Court's opinion
-    - Differentiated telephone communication from broadcast in Pacifica, stating the
-      caller must take "affirmative steps" to receive the message
-    - This statute has no effect on the number of adult telephone conversations that
-      is suitable for children to hear
-
-Reno v ACLU
-  - Communications Decency Act has two sections meant to protect minors from "indecent" and
-    "patently offensive" communications on the Internet (basically can't send weird shit
-    to recipients that are knowingly underage)
-  - Court's opinion
-    - Struck down those two provisions within the CDA
-    - Distinguished Pacifica and CDA: It is difficult to adequately protect the listener
-      from unexpected program content, thus 1A is most limited in that medium. But the
-      Internet requires more affirmative steps to encounter indecent material
-    - Also there was no "lack of precision" in what was banned, creating an unacceptable
-      "burden on adult speech"
-    - Again cited that government may not reduce the adult population to only what is
-      fit for children
-
-Ashcroft v ACLU
-  - Congress made COPA (Child Online Protection Act) in response to the Reno case
-    - Imposes fine and prison time for knowingly posting, for commercial purposes, on
-      the Internet content that is harmful to minors -> defined as any media that
-      is obscene
-      (a) to the average person -- contemporary community standards
-      (b) depicts in a manner patently offensive with respect to minors
-      (c) taken as a whole lacks serious literary, artistic, politic, scientific value for minors
-    - Also recognizes some affirmable defenses (requiring credit card, digital certificate
-      that verifies age, or any other reasonable measures under available tech)
-  - Court's opinion
-    - District court did not abuse its discretion in entering  apreliminary injunction against
-      enforcement of COPA
-    - There are "plausible, less restrictive alternatives to COPA"
-      - Filters considered "less restrictive than COPA" since they restrict speech at the
-        receiving end, and not universal restrictions at the source
-      - Court believed filters were more effective because it also stopped foreign porn
-        for minors, something COPA lacks
-      - The argument that "filtering is not a viable alternative bc Congress may not require
-        it to be used" is invalid  because requiring parently cooperation does not disqualify
-        a less restrictive alternative
-  - Dissent by Breyer, Rehnquist, O'Conner:
-    - The Act imposes a burden on protected speech that is no more than modest
-      - Does not actually censor the material, but just requires verification
-    - There is a legitimate compelling interest to protect minors from exposure to
-      commercial porn
-      - Filtering in its current state does not solve child protection problem, since it is
-	(1) faulty, (2) money prohibitive, (3) dependent on parents willingess, (4) lacks
-        precision, and may screen out legitimate content
-
-Adult Theater Zoning
-  - Young v American Mini-Theatres: Detroit's separate zoning of adult theaters was upheld,
-    as it didn't abolish it entirely
-    - "Reasonable alternative avenues of communication remained available"
-  - This case and City of Renton v Playtime Theatres relied on the fact that such zoning
-    relied on "secondary effects of such theaters on the surrounding community" and not
-    on the content itself, and thus past 1A muster

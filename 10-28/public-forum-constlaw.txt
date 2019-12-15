@@ -1,0 +1,603 @@
+Public Forum
+  - Private Property: Generally accepted that private property cannot be forced
+    to yield First Amendment rights
+  - Evolved along two lines: (1) streets and parks, (2) all other publicly own property
+
+Streets and Parks
+  - Massachusetts v Davis
+    - Case: Davis, a preacher, was convicted under city ordinance that forbade
+      "any public address" on any publicly owned property except in accordance
+      with a permit from the mayor
+      - Mass. Supreme Court: Upheld the conviction
+      - Justice Holmes on the court stated that the legislature may choose to block
+        public speaking on public property like "the owner of a private house to
+        forbid it in his house"
+        - Thus the gov't may "take the lesser step of limiting the public use to
+          certain purposes"
+    - Court: Also upheld the conviction
+      - Embraced Justice Holmes' position
+      - Constitution does not give a citizen the right to use public property
+        "in defiance of the constitution and laws of the State"
+
+  Hague v CIO
+    - Case: Court considered the constitutionality of an ordinance forbidding all
+      public meetings in the streets and other public places without a permit
+    - Court: Rejected the statute's constitutionality
+      - Streets and parks "have immemorially been held in trust for the use of the
+        public and, time out of mind, have been used for purposes of assembly,
+        communicating thought between citizens, and discussing public questions"
+      - Street and park regulation may be done "in consonance with peace and good
+        order" and also "in the interest of all". But use for 1A purposes may
+        not be abridged or denied
+      - Initial creation of the public forum doctrine:
+        - Applied the Holmes' common law property rights argument to the state & public trust
+        - Creates two classes of public property: Those that satisfy time out of mind
+          requirements (e.g streets and parks) and those that don't
+
+  Schneider v State
+    - Court held that a city's interest in keeping "the streets clean and of good
+      appearance" was insufficient to prohibit distribution of leaflets on public property
+
+  US v Grace
+    - Case: Federal statute prohibiting any person to display any flag, banner, etc
+      on the public sidewalks surrounding the Supreme Court.
+    - Court: Invalidated the statute
+      - Public sidewalks are public forums, and thus the government's ability to
+        restrict expression in such places "is very limited"
+      - The government MAY enforce "reasonable time place, and manner restrictions"
+        in public forums only if the restrictions are
+        (1) content neutral
+        (2) narrowly tailored
+        (3) serve a significant government interest
+        (4) leave open ample alternative channels of communication
+
+  Grayned v Rockford
+    - Case: Demonstrators marched on public sidewalk next to public high school to
+      protest school's racial policies. Convicted of violating a Rockford ordinance
+      prohibiting any "person on public or private grounds adjacent to an in session
+      school to make noise or diversion which disturbs the peace of such school"
+    - Court: Affirmed the conviction
+      - Although public sidewalk cannot be declared off limits for expressive activity,
+        (1) having an uninterrupted school session for learning is a compelling government
+            interest (government interest)
+        (2) Punished only conduct that disrupts normal school activities (ample
+          alternative channels of communication)
+        (3) Requires the decision to be made on an individualized basis
+          (narrowly tailored)
+        (4) Gives no license to punish anyone because of what he saying
+          (content neutral)
+      - Basically tackled the question of "whether the manner of expression is
+        basically incompatible with the normal activity of a particular place
+        at a particular time" (see Adderley v Florida)
+
+  Frisby v Shultz
+    - Case: People picketed on public sidewalk outside of an abortion doctor's home.
+        City placed ordinance banning residential picketing that focuses on a
+        particular residence.
+    - Court: Upheld the ordinance
+      - It "left open ample alternative channels of communication", as protestors
+        are able to go door-to-door, leaflet, or picket in a way that wasn't
+        exclusive to that residence
+      - Compelling government interest, since the privacy of the home is "of the
+        highest order in a free civilized society"
+      - Narrowly tailored, as it only impacts picketers that intrude on a targeted
+        resident in an offensive way -- doesn't impact dissemination of message
+        to the general public
+
+  Clark v Community for Creative Non-Violence
+    - Case: National Park Service allowed CCNV to erect symbolic tent cities on the mall
+      for demonstration of homeless issues, but prohibited people from actually living
+      in those parks
+    - Court: Upheld the no sleeping regulation as a "reasonable time, place and manner
+      restriction"
+      - Regulation is content neutral since it is not targeting the expression around
+        the plight of the homeless
+      - Narrowly focuses Government's substantial interest on maintaining the parks
+        in an attractive and intact condition
+
+  Ward v Rock
+    - Court upheld NYC regulation requiring the use of city-provided sound systems
+      and technicians for concerts in the Bandshell in Central Park
+      - Justification for the regulation was the city's desire to control noise
+        levels to avoid intruding into other areas of the park & residential areas
+    - Court said NYC gov't has substantial interest in protecting its citizens
+      from unwelcome noise
+      - Regulation also leaves open ample alternative channels of communication
+
+  Madsen v Women's Health Center
+    - Case: Petitioners violated injunction prohibiting them from blocking access
+      to an abortion clinic and from harassing the patients and doctors. The state
+      court issued new injunction
+        (1) prohibiting demonstrating within 36 feet of clinic
+        (2) exhibiting images observable by patients within the clinic
+        (3) prohibited approaching patients within 300 ft of clinic
+    - Court:
+      - Upheld the 36 foot buffer zone (protects access to the clinic)
+      - Invalidated the restriction on exhibiting "images observable" to patients,
+        since the clinic could just "pull its curtains" (similar to averting one's eyes)
+      - Invalidated prohibiting protestors from approaching people within 300 ft of
+        clinic
+        - 300 ft is larger than the zone upheld in the Frisby case
+        - A smaller zone would have been constitutional
+
+  Schenck v Pro Choice Network of Western New York
+    - Case: Abortion clinics subjected to series of large-scale blockades. Other groups
+      of protestors yelled and spit at women entering the clinics. Police officers
+      controlling the protests were also harassed by the protestors
+      - Federal court issued injunction that
+        (a) prohibited them from demonstrating within 50 feet of clinic doorways
+        (b) Prohibited them from demonstrating within 15 feet of any person or vehicle
+            accessing the clinic
+    - Court: Upheld (a), invalidated (b)
+      - For (a), protests prevents abortion clinics from being able to properly operate,
+        thus it is okay
+      - For (b), it prevents people from communicating a message from a normal
+        conversational distance or handing leaflets to people, thus abridges free expression
+
+  Hill v Colorado
+    - Case: Colorado statute that makes it unlawful for anyone within 100 feet of
+      healthcare facility to "knowingly approach" within 8 feet of another person to
+      pass a leaflet, display a sign, or engage in oral protest
+    - Court: Upheld the statute
+      - Citing Frisby, stated that offensive messages cannot be protected if it
+        is so intrusive that unwilling audience cannot avoid it
+      - "No one has a right to press even good ideas on an unwilling recipient"
+      - The statute is a "valid time, place, and manner regulation that serves
+        the governmental interests that are significant and legitimate; also
+        narrowly tailored to serve those interest and leaves open ample alternative
+        channels for communication"
+
+  McCullen v Coakley
+    - Case: Massachusetts statute that prevented people from standing on a sidewalk
+      within 35 feet of an entrance of a hospital where abortions are performed
+    - Court: Invalidated the ordinance
+      - Government ability to restrict speech on sidewalk is very limited
+      - Buffer zones burden "substantially more speech than necessary to achieve
+        Massachusetts' asserted interests"
+        - Pointed to other laws that criminalized harassing people who enter the
+          facility, or NYC law that prevented following another person within 15
+          feet of an abortion facility
+
+  Capitol Square Review and Advisory Board v Pinette
+    - Court suggested that "a ban on all unattended displays" in a public park
+      might be constitutional
+
+  Licensing
+    Cox v New Hampshire
+      - Case: Jehovah's Witnesses were convicted of violated statute prohibiting any
+        parade or procession upon a public street without first obtaining a permit
+      - Court: Affirmed the convictions
+        - Regulation of the use of streets for parades is already accepted, the only
+          question is if the regulation "unwarrantedly abridged the right of assembly"
+        - The licensing authority could only take into considerations such as "time,
+          place and manner" to conserve the public convenience. The authority also was
+          NOT vested with arbitrary power, and could not deny based on the content
+          - Thus this licensing authority was constitutional as it was limited and
+            only allowed to license based on already accepted public forum doctrine
+
+    Watchtower Bible & Tract Society v Village of Stratton
+      - Case: "Time, place, and manner" licensing scheme for individuals who want
+        to go door-to-door to speak with homeowners and distribute literature
+      - Court: Invalid scheme
+        - Places a burden on speakers who want to remain anonymous, and also limitations
+          on "spontaneous" speech is an undue burden on 1A
+
+    Murdock v Pennsylvania
+      - Court ruled a State may not impose a flat license tax for assembly activities,
+        as different circumstances will have different costs to the government
+      - But governments may impose a nominal fee to cover things like security,
+        clean up, etc
+
+    Forsyth County v The Nationalist Movement
+      - Court invalidated ordinance that authorized permit fees for parades, marches
+        up to a maximum of $1000 based on anticipated expense to maintain public order
+      - Invalid because the administrator may charge parades that they don't like more
+      - Speeches cannot be financially burdened, any more than it can b punished or
+        banned simply because it might offend a hostile mob
+
+  Disclosure
+    Talley v California
+      - Case: Ordinance requiring the name and address of the person who printed,
+        wrote and compiled on all leaflets distributed on the streets
+      - Court: Held the ordinance invalid
+        - Identification requirement would restrict freedom to distribution information,
+          and thus freedom of expression
+        - Anonymous pamphlets and leaflets have played an important role in protests
+
+    McIntyre v Ohio Elections Commission
+      - Court invalidated state statute prohibiting distribution of literature that
+        does not have the name and address of the person issuing the literature
+      - "Anonymity is an honorable tradition of advocacy and of dissent. Anonymity
+        is a shield from the tyranny of the majority"
+
+    Buckley v Valeo -> compelled disclosure of campaign contributions
+
+    NAACP v Alabama -> requiring disclosure of members threaten their economic or
+      employment standing
+
+Other Public Property
+  - Adderley v Florida
+    - Case: Students marched to the county jail to protest the arrest of civil rights
+      demonstrators. They blocked the entrance. The county sheriff ordered students
+      to leave otherwise they would be arrested for trespassing. They didn't and were
+      convicted of Florida statute for "trespass upon the property with a malicious
+      and mischievous intent"
+    - Court: Affirmed the convictions
+      - Sheriff did not object to the content of the protest, only to their presence
+        on jail grounds blocking jail uses
+      - Jails are not "immemorially" used for expressive activities, thus the State
+        has private property rights to control its use for which it is lawfully dedicated
+        - No constitutional right for petitioners to stay on the property
+    - Dissent:
+      - Jailhouses hold political prisoners, and people have the right to petition
+        for the redress of grievances
+      - "Methods should not be condemned as tactics of obstruction and harassment
+        as long as the assembly and petition are peaceable, as these were"
+      - Can't banish all non street and park property from protests
+  - Greer v Spock
+    - Case: A candidate for president (Spock) wanted to hold a political meeting with
+      military personnel at a military base. This base has unrestricted parts
+      and roads that are open to civilians. However, base had regulation banning
+      political speeches and activities on the base. Is this regulation constitutional?
+    - Court: Affirmed the regulation
+      - Quoting Adderley: "The State, no less than a private owner of property, has
+        power to preserve the property under its control for the use to which it is
+        lawfully dedicated"
+      - Military base is meant to "train soldiers, not to provide a public forum"
+  - Heffron v Int'l Society for Krishna Consciousness
+    - Case: Minnesota State Fair has a rule that prohibited sale or distribution of
+      materials without a booth rented from the state. The booths are rented in a
+      nondiscriminatory manner on a first come first served basis. The rental charge
+      is dependent on the size and location of the booth. This rule was challenged
+      for hurting ISKCON's ability to distribute its literature
+    - Court: Upheld the State Fair's rules
+      - State has a more legitimate interest in crowd control in a state fair
+        because of how compact it is and the number of visitors at any given moment
+      - This is also only a place or manner restriction as well, not a content one
+  - US Postal Service v Council of Greenburgh Civic Associations
+    - Case: Federal statute prohibiting the deposit of unstamped "mailable matter"
+      in a letter box approved by the USPS
+    - Court: Affirmed the statute
+      - Letter box is not a constitutional forum, neither historically (strict regulation
+        by Congress and USPS) nor constitutionally
+      - Letter box is similar to military base (Greer) or a jail (Adderley), as it
+        is government property that is NOT a public forum
+        - Even so, government regulation MUST be content neutral, which it is in this case
+  - Los Angeles v Taxpayers for Vincent
+    - Court upheld LA ordinance prohibiting posting signs on public utility poles
+    - This is a content neutral restriction
+    - Legitimate government interest in preventing "the visual assault on citizens
+      by accumulation of signs posted on public property"
+    - This limit is no broader than necessary to protect the City's interest
+    - "The mere fact that gov't property can be used as a vehicle for communication
+      does not mean that the Constitution requires such use to be permitted"
+  - US v Kokinda
+    - Case: A political advocacy group set up table on a sidewalk near an entrance
+      to a US Postal Office to distribute literature. The sidewalk is on the Postal
+      Service property. They were convicted of regulation prohibiting people from
+      soliciting contributions on postal premises
+    - Court: Upheld the regulation as applied
+      - "Postal sidewalk does not have characteristics of public sidewalks traditionally
+        open to expressive activity" -> purely means for "passage of individuals
+        engaged in postal business"
+      - Postal property is not a public forum, thus regulation must
+        (1) be reasonable
+        (2) not be an effort to suppress expression merely because officials opposed
+            the content
+      - The sidewalk also isn't a "limited-purpose" public forum even though individuals
+        are allowed to leafletting or picketing on postal premises
+        - Government does not create a public forum by permitting limited discourse
+        - It can only do so by intentionally opening a nontraditional forum for public discourse
+        - Otherwise it would dis-incentivize the government from dedicating its property
+          to any speech activities at all
+  - Int'l Society for Krishna Consciousness v Lee
+    - Case: Port Authority of NY and NJ owns the NYC airports and forbids within
+      airport terminals the repetitive solicitation of money & sale and distribution of any
+      merchandise, which includes brochures, pamphlets, books or any other material.
+      This only applies terminal buildings and not the sidewalks outside of buildings
+    - Court: Upheld the ban on solicitation but invalidated the ban on sale or
+      distribution of literature
+      - Solicitation: Airport terminals are not public forum because "given the lateness
+        with which the modern air terminal has made its appearance, it hardly qualified
+        for the immemorially time out of mind" qualification for purposes of expressive
+        activity.
+        - Because the airport terminal does not have a principal purpose "promoting
+          the free exchange of ideas," it is not a public forum
+        - Thus prohibition on solicitations only need to satisfy a requirement of
+          reasonableness, which is satisfied because of the disruptive effect that
+          solicitation may have on business -- impeding the flow of traffic where a delay
+          could mean a missed flight. Also reasonable because solicitation is allowed
+          on the sidewalks outside of the terminals, where an "overwhelming" amount
+          of airport users can be reached
+      - Sale or distribution of literature:
+        - This ban violated 1A, because "the right to distribute flyers and literature
+          lies at the heart of the liberties guaranteed"
+          - Regulation not drawn narrowly and does not leave open ample alternatives
+        - Port Authority's concerns with congestion can be addressed through narrow
+          restrictions on the time and place of expressive activity
+    - Solicitation dissent by Justice Kennedy:
+      - Airports ARE public forums -- cannot just rely on historical use cases
+        - Airports are one of the few public spaces where people have extended contact
+          with other members of the public; bears important physical similarities
+          to a street
+      - But, found that the solicitation regulation is okay because it is a reasonable
+        "time, place, and manner restriction"
+
+When does a public forum occur on private property?
+  - Marsh v Alabama (company town)
+    - Case: Should state impose criminal punishment on person who distributes literature
+      on premised of a company town against the wishes of the town's management.
+      The person was convicted for prohibiting a person to enter premises of another
+      after having been warned not to do so
+    - Court: Overturned the conviction
+      - Ownership "does not always mean absolute dominion"
+      - The owner opened his property for use by the public in general, and thus
+        public users gain constitutional rights
+      - State cannot permit a corporation to govern a community of citizens so as
+        to restrict their fundamental liberties and the enforcement of such restraint
+        by application of a state statute
+  - Shopping malls
+    - Food Employees Local v Logan Valley Plaza
+      - Court held that peaceful picketing of a business enterprise cannot constitutionally
+        be prohibited by the owner of the shopping center
+    - Hudgens v NLRB
+      - Logan Valley was overruled, and the property rights of the owner of the
+        shopping center prevailed
+  - Appropriation of private property for speech purposes
+    - PruneYard Shopping Center v Robins
+      - Court upheld part of California Constitution that allowed for speech and
+        petitioning, reasonably exercised, in shopping center even when the centers
+        are privately owned
+      - Rejected PruneYard's 5th Amendment argument that it constitutes "destruction
+        or injury to property by government action" -> allowing free expression does not
+        impair the value or use of the property as a shopping center
+      - The shopping center is open to the public, unlike someone's private home
+      - There is also ample room for PruneYard to indicate disapproval of messaging
+        (e.g by putting up signs where the protestors are)
+
+Public Forum Underinclusion
+  - Regulation that restricts less speech than a broader constitutional content-neutral
+    restriction (e.g treats content differently)
+    - Not a question of if the government may restrict the other speech -- it is
+      already accepted to be allowed to be restricted; it is if it can ALLOW additional
+      speech that was allowed to be restricted
+
+  - Police Department of Chicago v Mosley
+    - Case: Chicago ordinance banning picketing or demonstrating within 150 ft of
+      any school building while the school is in session, with the exception that
+      picketing about labor disputes are allowed
+      - A guy, Mosley, picketed about racial discrimination, and sued saying the
+        ordinance distinguished between labor picketing and other peaceful picketing
+    - Court: Ordinance is unconstitutional bc it makes content distinction for picketing
+      - Equal Protection Clause of the 14th Amendment is relevant for treating
+        picketing differently
+      - The government may not grant the use of a forum to people whose views it
+        finds acceptable, but deny use to those wishing to express less favored
+        or more controversial views; and may not select which issues are worth discussing
+      - Exclusions from a public forum may not be based on content alone
+      - This regulation is NOT a time, place, or manner regulation but of subject matter
+      - Subject matter regulation MUST be subject to strict scrutiny, and in this case
+        there is no compelling government interest to allow labor picketing specifically
+  - Cary v Brown
+    - Case: Peaceful demonstration in front of the home of the Chicago mayor, protesting
+      his failure to achieve racial integration. Demonstrators were convicted of violating
+      Illinois statute declaring it "unlawful to picket before or about the residence
+      of any person, except when the residence is a place of employment involved
+      in a labor dispute"
+    - Court: Held that this statute was indistinguishable from the one invalidated in Mosley
+      - Accords preferential treatment to the expression of views on one particular subject
+      - Equal Protection Clause mandates legislation be finely tailored to serve
+        substantial state interests
+  - Widmar v Vincent
+    - Case: University of Missouri allowed student groups to meet in university facilities,
+      but adopted a regulation prohibiting the use of university buildings for
+      religious worship or religious teaching
+    - Court: Invalidated the regulation
+      - Campus of a public university is essentially a public forum for its students
+        - The main difference is that a university has a mission for education and
+          can impose reasonable regulations compatible with that mission upon the
+          use of its campus and facilities
+      - Referenced Cary v Brown as it must serve a compelling state interest and is narrow
+        drawn.
+      - Allowing a religious organization from enjoying merely "incidental" benefits
+        of the university facilities does not violate the prohibition on the State
+        advancing religion (separation of Church and State)
+        - Thus the state interest is compelling, but not narrowly drawn
+  - Case where Mosley careful scrutiny IS satisfied:
+    - Burson v Freeman: Court upheld law prohibiting the solicitation of votes and
+      display of campaign materials within 100 feet of a polling place
+  - Lehman v City of Shaker Heights
+    - Case: Rapid transit system sells advertising space. Is it required (by 1st & 14th
+      Amendments) to accept paid political advertising on behalf of a candidate for
+      public office?
+      - The city accepted ads from cigarette companies, banks, liquor companies,
+        churches and other controversial industries
+    - Court: The transit car is not a public forum
+      - Transit cars is purely for a city's commercial purposes (providing transit),
+        thus the car advertising space is part of the commercial venture
+        (not a public forum)
+      - Thus, city transit system has discretion to develop and make reasonable choices
+        concerning the type of advertising displayed in its vehicles
+      - This regulation in particular is not "arbitrary, capricious, or invidious"
+      - Allowing political advertisements on a car may jeopardize the transit system's
+        long term revenue stream (by pissing off transit users) -> also the city
+        is attempting to prevent showing favoritism politically, thus the
+        State interests are compelling and legitimate
+        - No 1A infringement as long as city limits advertising to "innocuous
+          and less controversial commercial and service oriented advertising"
+      - Transit car advertising is an example of "captive audience" -> where the
+        audience cannot avoid the expression, thus legitimate interest in preventing it
+    - Justice Douglas concurrence:
+      - Petitioner has no right to force his message upon an audience incapable
+        of declining to receive it
+    - Dissent:
+      - Public service advertisements convey messages of public concern and are
+        protected by 1A -> the fact that the transit agency took these advertisements
+        meant they were creating a space of public forum
+      - Preventing political discussions but allowing public service announcements
+        is antithetical to 1A
+      - Subject matter censorship is forbidden -- commercial and public service
+        announcements concern public matters
+      - Passengers could also just "avert their eyes" (Cohen v California)
+  - Perry Educator's Association v Perry Local Educators' Association
+    - Case: School district operates inter-school mail system to transmit messages
+      between teachers and school administration. Some private organizations also
+      have access to the system.
+      - Perry Educator's Association (PEA) was certified as the exclusive bargaining
+        representative of the district's teachers, thus PEA was the only union
+        with access to the mail system
+      - PLEA is a rival union and claimed the district access policy violated the
+        Constitution
+    - Court: Upheld the district policy
+      - Three types of government property
+        (1) Street and parks, the quintessential public forums
+        (2) Public property which the state has voluntarily (& temporarily) opened
+            for use as a public forum
+        (3) Public property not by tradition or designation a public forum
+      - (1) and (2) will require strict scrutiny, but (3) only requires 'reasonable'
+        regulation that is 'content neutral'
+      - School mail falls under (3), since the school mail system was selectively
+        opened to other organizations and not open to the general public
+        - This selective access does not transform it into a public forum
+      - Also not viewpoint discrimination, since it only allowed organizations based
+        on status (as a union) and not their views
+        - Speaker identity distinguishment is okay
+      - State has a legitimate interest in preserving the property for use that it
+        was lawfully dedicated
+
+Quintessential, Designated, and Nonpublic Forums
+  - Cornelius v NAACP (Distinction among charities)
+    - Case: CFC is a charitable fundraising drive conducted in federal workplace
+      during working hours
+    - Court upheld Executive Order limiting the participation in the CFC to voluntary
+      tax-exempt nonprofit charitable agencies, EXCLUDING legal defense and political
+      advocacy organizations
+      - CFC is a nonpublic forum because charities have selective access to it (Perry)
+      - Control over access to a nonpublic forum can be content and identity based,
+        as long as the distinctions are "reasonable in light of the purpose" and
+        "viewpoint neutral"
+      - This regulation was reasonable because
+        (1) President wanted to prioritize food and shelter aid over litigation
+        (2) Legal defense and political advocacy groups would generate controversy,
+            and disrupt the federal workplace
+        (3) Also avoids the appearance of government favoritism over certain viewpoints
+  - Ysursa v Pocatello Education Association (union political activities)
+    - Case: Idaho law that prevents payroll deductions for union political purposes.
+            Challenged on infringing on 1A
+    - Court: Upheld the Idaho law
+      - NOT subsidizing the exercise of a fundamental right is not an infringement on it
+        - State is not constitutionally obligated to provide payroll deductions at all
+      - Thus the state only needs to demonstrate that the regulation is "reasonable"
+        - State wants to avoid the appearance of government favoritism in partisan
+          politics, which is a reasonable justification
+  - Arkansas Educational TV Commission v Forbes
+    - Case: AETC decided to limit 1992 debates to major party candidates "or
+      other candidates who had strong popular support". Forbes is an independent
+      candidate, and satisfy ballot qualifications, but was refused to be included
+      in the debates. Claims his exclusion violated 1A
+    - Court: Upheld AETC's right to exclude
+      - "A designated public forum is not created when the government allowed selective
+        access for individual speakers rather than general access for a class of speakers"
+      - Thus, AETC debates are not a designated public forum
+      - Excluding people for not having popular support is NOT based viewpoint discrimination,
+        and was "reasonable in light of the purpose of the property"
+  - Walker v Texas Division Sons of Confederate Veterans (license plates)
+    - Court held Texas did NOT create a limited public forum when it permitted
+      private groups to submit proposals for specialty license plates
+    - Upheld refusal of Texas DMV to approve license plate featuring the Confederate
+      battle flag on the ground that the plate is government, not private, speech
+    - License plates are a nonpublic forum because the state is engaging in expressive
+      conduct
+
+Limited public forums - Lehman, Greer, Cornelius and Perry cases
+
+Viewpoint Neutrality in face of religious expression
+  - Lamb's Chapel v Moriches Union Free School District
+    - Case: School district rule permitted after-school social, civic, and recreational
+      uses of school property, but prohibited religious purposes
+      - School rejected Lamb's Chapel's request to show religious-oriented films
+        concerning family values and childrearing
+    - Court: Invalidated the school rule because it was not viewpoint neutral
+      - Rejected the notion that it was subject matter rather than viewpoint
+        - The actual premise of the film (family values) was okay, but it was not okay
+          for being shown from a religious perspective -> hence viewpoint discrimination
+  - Rosenberger v Rector & Visitors of University of Virginia
+    - Court invalidated UVA policy authorizing payment from Student Activities Fund
+      for printing costs of a variety of student publications, but prohibited
+      payment for publications that promote a particular belief about a deity or
+      ultimate reality
+      - Suit brought by student org that offers Christian perspective and were denied
+        printing funding
+    - Court: Invalidated the school policy
+      - Limited public forums can be reserved for certain groups or certain topics
+      - But, this is seen as viewpoint discrimination and thus not okay, citing Lamb's Chapel
+        - Religious perspective is denied rather than the subjects discussed
+    - Dissent:
+      - Cited Lehman and stated that banning religious orgs is NOT viewpoint discrimination
+      - The policy explicitly bans SUBJECT MATTER discussion on a deity or ultimate reality,
+        thus this case is different from Lamb's Chapel
+    - Recall the debate over cross burning in RAV
+  - Good News Club v Milford Central School
+    - Case: School district authorized residents to use school buildings after hours
+      for education or social, civic, recreational, etc uses but NOT religious purposes
+      - Denied a request by Good News Club, a Christian organization
+    - Court: Unconstitutional viewpoint discrimination in limited public forum
+      - Club seeks to address a subject otherwise permitted in the rule: the
+        teachings or morals and character, but was denied because of their
+        religious perspective on this subject
+      - Thus this case is indistinguishable from Lamb's Chapel and Rosenberger
+    - Dissent:
+      - Good News Club is more than religious perspective but wanted kids to
+        worship as well as convert kids to Christianity, which NOT viewpoint discrimination
+  - Christian Legal Society Chapter v Martinez
+    - Case: Hastings College of Law, a public law school, extends recognition to
+      student groups, which gives groups access to school funds, facilities, and other
+      privileges. However, in exchange the student groups must abide by certain conditions,
+      which includes a nondiscrimination policy. Hastings interprets this policy
+      to mandate acceptances of ALL students to the student group.
+      - Christian Legal Society requires members to sign a Statement of Faith,
+        and excludes homosexuals or non-Christians from the group
+      - Hastings rejected CLS's application on the grounds of discrimination for
+        sexual orientation and religion
+      - CLS claims this violates its 1A rights of expression and association
+    - Court: Upheld the Hastings policy, rejecting CLS' claim
+      - Hastings RSO program established a "limited public forum", and the Court
+        permits restrictions within the limited public forum if they are reasonable
+        and viewpoint neutral
+      - The policy is reasonable because Hastings has an interest in affording
+        all leadership and education and social opportunities to all students,
+        and in avoiding using public money to subsidize discriminatory conduct
+      - There are substantial alternative channels for CLS communication to take place
+      - The policy is also viewpoint neutral as it requires all student groups to
+        accept all comers, and has nothing in regards to the content of the group.
+        CLS' conduct in rejecting such students not their perspective is what caused
+        them to be denied.
+      - Hastings isn't prohibiting CLS' expressive activity, but CLS has no constitutional
+        right for state subsidy of its selectivity (Ysursa case)
+    - Dissent:
+      - Constitutionality of the nondiscrimination policy is viewpoint discriminatory
+        - It allows environmentalist groups to reject students who don't believe in
+          global warming, but forces religious groups to accept students that are
+          not of the faith
+      - The majority said the nondiscriminatory policy is okay because it is conduct
+        based. But in this case the conduct is expressive.
+  - Reed v Town of Gilbert
+    - Court made clear that a less demanding standard of review is necessary for
+      subject matter restrictions on nonpublic forums
+    - How about subject matter restrictions that regulate speech on private property?
+    - Case: Gilbert regulated signs displayed on private property that made distinctions
+      on the signs based on its subject.
+      - Good News Community Church was cited for exceeding the time limit for a
+        sign displaying the time and location of upcoming service
+    - Court: The ordinance is unconstitutional
+      - The Town's code was content based on its face, and thus subject to strict
+        scrutiny
+        - Ordinance singles out a specific subject matter for differential treatment.
+          Even though it does not target viewpoints within that subject matter,
+          strict scrutiny still applies.
+        - This is because 1A hostility to content-based regulations extends to
+          prohibitions of public discussion of an entire topic
+    - Dissent:
+      - All sign ordinances are now subject to strict scrutiny
+      - Helpful signs on streets and sidewalks (like hidden driveway signs)
+        must be treated the same as any other sign

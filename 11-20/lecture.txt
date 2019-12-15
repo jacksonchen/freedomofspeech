@@ -1,0 +1,57 @@
+Justifications for regulating broadcasting:
+  - Scarcity doctrine (scarcity of spectrum allocation)
+    - More people want to participate than there literally is space available
+  - Makes use of a publicly owned space (Electromagnetic spectrum is public)
+    - Broadcasting station requires utilizing that public space
+  - Broadcasting is an extremely dangerous medium
+    - People won't think clearly if this medium is co-opted
+
+Scarcity argument -- everything is scarce
+  - Markets deal with scarcity
+    - For communication and speech, there is an even stronger impulse to use the market
+      to allocate resources (idea of 1A was keeping the government out of regulating the
+      market)
+  - What was unique about the Red Lion case (that broadcast medium needs regulation):
+    - Unanimous decision
+    - ACLU and newspaper organizations argued in favor of government regulation of broadcasting
+    - Hint in the case that it's a constitutional obligation of the government to regulate
+
+Dialogue behind why spectrum is special
+  - Arguments for why spectrum is special: Broadcast Spectrum is super scarce -- more than your usual scarcity
+  - Counterargument: Newspapers are even more scarce (newspapers v publishing stations in various cities)
+  - Response: The reason behind the scarcity of the newspaper market isn't the physical limitation,
+    but actual economies of scale in the market that led to a monopoly
+  - Response to that: Why does that even matter? Monopolization results in scarcity
+  - The Court haven't responded to that last point
+
+Regulation of broadcast spectrum
+  - Fairness doctrine: If media talks about issue of public importance, then the
+    broadcaster needs to present (or give opportunity) to give a counterpoint on
+    that issue
+  - Could the fairness doctrine apply to advertisements?
+    - Particularly around cigarette advertisements
+    - DC Court of Appeals case held that the fairness doctrine required counterpoints
+      to be aired with cigarette ads
+    - Cigarette companies lobbying for Congress to pass a law banning television advertising
+      of cig companies, and it did
+  - Bollinger's thesis of the Dual System of Freedom of Press
+    - One of them is totally free, despite being subject to enormous amount of wealth (the press)
+    - Another is regulated, in order to improve the discussion (the broadcast media)
+  - Cable
+    - Better offerings for rural communities
+    - More efficient for urban environment
+    - Expanded because you can get more channels than broadcast medium
+    - Cable companies claimed they could not be regulated because they were different from
+      broadcasting (200 channels on cable)
+    - Arguably, cable is worse than broadcast, since there were 3 TV stations, but only
+      one cable company in a geography
+    - But the Supreme Court (Turner case, etc) said each technology has to be treated
+      differently, and they saw cable between print and broadcasting, thus giving
+      cable more protection from government but still some regulation
+    - This is the current state of cable
+  - The Internet
+    - ...
+  - Freedom of speech and press has historically been seen in the context of the
+    nation (i.e the US). This idea is breaking down
+    - Interdependence between nations of "profound significance"
+    - Free speech and press needs to be thought in a global context now

@@ -1,0 +1,227 @@
+Symbolic speech
+  - Nonverbal conduct was a means of "symbolic" expression
+
+US v O'Brien
+  - Case: O'Brien burned their draft cards in public. O'Brien then told FBI agents
+    that he burned his cards because of his beliefs, and knew that it violated
+    federal law
+    - Court of Appeals held the anti draft card burning amendment (1965 Amendment)
+      as unconstitutional in abridging freedom of speech
+  - Court: 1965 Amendment is "constitutional both as enacted & applied"
+    - Does not abridge free speech on its face, as the actual burning of a draft card
+      is not necessarily expressive
+    - Conduct isn't always labeled speech "whenever the person engaging in the
+      conduct intends thereby to express an idea"
+    - When speech and non-speech elements are combined in the same course of conduct,
+      a sufficiently important governmental interest in regulating the non-speech
+      element can justify incidental limitations on 1A freedoms
+      - Constitutional power of Congress to raise and support armies and to make
+        all laws necessary and proper to that end is broad and sweeping
+      - Protecting draft cards is a legitimate national interest
+    - The 1965 Amendment is an "appropriately narrow means of protecting this
+      interest and condemns only the independent non-communicative impact of conduct"
+    - Court also cannot strike down a constitutional statute on the "basis of an
+      alleged illicit legislative motive" (O'Brien argued that Congress passed
+      this law in order to "suppress speech")
+    - Lays out the incidental effect doctrine (see below)
+    - Four part O'Brien test:
+      (1) Regulation furthers a substantial government interest
+      (2) Government interest is unrelated to the suppression of free expression
+      (3) Restrictions imposed are no greater than necessary to further gov't interest
+      (4) Government has the constitutional authority to enact the law
+
+Tinker v Des Moines School District
+  - Case: School officials suspected 3 students because they wore black armbands
+    to protest the Vietnam war.
+  - Court:
+    - Invalidated the suspensions
+    - "Wearing of an armband for the purpose of expressing certain views is the
+      type of symbolic act that is within 1A"
+    - School authorities did not prohibit wearing all symbols of political significance,
+      but rather a particular symbol -- i.e viewpoint discrimination
+
+Schacht v US
+  - Case: Schacht demonstrated against Vietnam War, and was convicted for unauthorized
+    wearing of an American military uniform
+  - Court: Reversed the conviction
+    - Cited O'Brien: The misused of American military uniform statute IS valid on its
+      face
+    - However, the Court also found that Schacht is wear the American military uniform
+      for a theatrical production, which IS legally protected
+    - With that statute out of the way, Court decided cannot send the dude to prison
+      for protesting the Vietnam War, since it is a fundamental abridgement of 1A
+
+NAACP v Alabama
+  - Case: Alabama statute required all out-of-state corporations doing business in
+    the state to disclose names and addresses of all Alabama members
+  - Court: Statute was invalid as applied
+    - Rare case of the Court striking down a statute because of the incidental
+      restriction on expression
+    - Court found that revealing identity of NAACP rank-and-file members would
+      hurt the members quite significantly, thus the incidental restriction on
+      expression would seriously hurt NAACP and its members to pursue their
+      constitutional rights
+
+Incidental effect doctrine
+  - Incidental effect on 1A is justified when state is attempting to pursue
+    legitimate interests
+  - Requires two conditions:
+    (1) Law is not directed at speech
+    (2) It is not the expressive element of the act that causes the harm the
+      state seeks to prevent
+  - If harm is caused by the message, the incidental effect doctrine is inapplicable
+
+Holder v Humanitarian Law Project
+  - Case: Constitutionality of federal statute declaring it unlawful for anyone to
+    provide "material support" to a foreign terrorist organization, where material
+    support includes expert advice (such as for legal advice)
+  - Government argued that the statute only had an incidental effect on speech,
+    and that the O'Brien should govern
+  - Court:
+    - Rejected the government's argument
+      - O'Brien does not give a standard for reviewing content-based regulation of speech
+      - This material support statute is content based
+      - Said Cohen v California is more applicable
+    - But still upheld the statute on other grounds
+
+Flag burning
+  - Street v New York
+    - Case: Street took a flag to a nearby street corner and burned it. Convicted of
+      violating New York statute making it misdemeanor to mutilate ... or 'cast
+      contempt upon either by words or acts' any flag of the US
+    - Court: Overturned conviction
+      - Held that the statute was unconstitutionally applied to the case because
+        it permitted him to be punished merely for speaking defiant or contemptuous
+        words about the American flag
+      - However, it ducked whether or not burning the flag itself should be protected
+  - Smith v Goguen
+    - Case: Smith wore a small cloth replica of the US flag and was convicted for
+      "publicly mutilate, trample upon, deface or treat contemptuously the flag
+      of the US"
+    - Court: Overturned the conviction
+      - The statute was void for vagueness
+      - Appellee was charged not with any act of physical desecration but with
+        "publicly treating contemptuously the flag of the US". The Court noted
+        that casual treatment of the flag in many context is widespread amongst youth
+      - Thus the treating contemptuous clause is inherently vague
+  - Spence v Washington
+    - Case: Spence protested the Vietnam War and Kent State killings by displaying
+      the US flag with a large peace symbol over it. Convicted under Washington's
+      "flag misuse" statute, which prohibited superimposing anything on the flag
+    - Court: Overturned conviction
+      - Blocking "a pointed expression of anguish by appellant about the affairs of his
+        government" is "impermissible infringement of free expression"
+      - This was is unrelated to O'Brien because it is content related (rather
+        than content neutral which O'Brien applies to)
+    - Court makes an interesting declaration: All flag misuse statutes are
+      "directly related to expression" and thus inapplicable to O'Brien
+  - Texas v Johnson
+    - Case: Johnson burned an American flag as a political demonstration in 1984
+      Republican Convention. Was convicted of violating Texas flag desecration
+      statute, which made it a crime for any person to "deface, damage or otherwise
+      physically mistreat" the flag "in a way that the actor knows will seriously offend
+      one or more persons likely to observe or discover his action"
+    - Court: Overturned conviction
+      - Flag burning has enough "elements of communication" to implicate the
+        First Amendment
+        - State may not prevent particular conduct because it has expressive elements
+        - O'Brien only allowed incidental limitations on speech elements of conduct
+          if the Government's interest is unrelated to the suppression of free expression
+        - The state here is aiming to squash the expressive element of flag burning
+          (desecration of a symbol of the nation). The underlying bedrock of 1A is
+          that "the Government may not prohibit the expression of an idea simply
+          because societry finds the idea itself offensive or disagreeable"
+      - State does NOT have a legitimate interest in using the statute to prevent
+        breaches of peace
+    - Dissent led by Justice Rehnquist
+      - Citing Chaplinsky: Flag burning is no essential part of any expression of ideas
+      - Johnsons' act could have been conveyed in a dozen different ways, thus
+        the Texas statute is limited in scope
+  - US v Eichman
+    - Case: After Johnson case, Congress enacted the Flag Protection Act, making it
+      a crime to "knowingly mutilate, deface, physically defile, burn, maintain on the
+      floor or ground, or trample upon any flag of the United States"
+    - Court: Invalidated this act
+      - Even though the act explicitly stated that it was meant to "protect the physical
+        integrity of the flag under all circumstances", it was clear that the
+        government's asserted interest is related to the suppression of free expression.
+      - Mere destruction of a physical manifestation of a symbol does not diminish
+        the symbol itself in any way
+      - Fundamental flaw of the act is that "it suppresses expression out of concern
+        for its likely communicative impact". Since it is a content based restriction,
+        it must undergo strict scrutiny. Since government's interests are not justified,
+        the Act is unconstitutional
+
+Barnes v Glen Theatre
+  - Case: Two nude dancing establishments challenge Indiana's public indecency
+    statute, which prohibits any person to appear in a state of nudity in any public place
+  - Court: Declared the statute is fine under 1A
+    - Nude dancing of the kind sought to be performed here is expressive conduct within
+      the outer perimeters of 1A
+    - Applying the 4 part O'Brien test:
+      - Preventing public indecency is a legitimate government interest, as the State
+        has the power to uphold moral values
+      - This government interest is unrelated to the suppression of free expression
+      - The expressive element of the conduct (the nudity) that is causing harm
+        to society. It is the public indecency that is the "evil the state seeks to
+        prevent" -> gave an example about public nudity at beaches which is also
+        banned but has no erotic expressive element
+      - This statute is narrow in scope: Not trying to suppress the "erotic message"
+        conveyed by the dancers -- dancers wearing G-strings would convey the same
+        message but less graphically
+  - Dissent:
+    - These theaters have consenting adults who pay money to see these dances
+    - The purpose of the statute is to protect people from the harmful message that
+      nude dancing communicates -- but since it is seeking to protect people from
+      the erotic message, thus it inhibits free expression
+
+City of Eric v Pap's AM
+  - Case: Eric enacted ordinance banning public nudity. The preamble stated that
+    the purpose of the ordinance was to respond to recent increase in nude live
+    entertainment within the city, which adversely effects the city. A nude dancing
+    establishment sued.
+  - Court: Upheld the ordinance
+    - General ban on all nudity, whether or not it is expressive (thus content-neutral)
+    - State also has a legitimate interest in "preventing harmful secondary effects
+      not related to the suppression of expression", which includes crime
+    - Expression also has meaningful alternatives: Performers are able to wear G-strings
+      and pasties, thus it does not prevent the speaker from expressing their
+      erotic content
+
+NAACP v Claiborne Hardware (Political boycotts)
+  - Court invalidated a civil judgment against the NAACP for instituting a boycott
+    of white merchants designed to induce business and civic leaders to adopt a number
+    of reforms
+  - "The speech does not lose its protected character simply because it may coerce
+    others into action"
+
+Rumsfeld v FAIR
+  - Case: Law school banned military employers who discriminated against gays and lesbians
+  - Court:
+    - Exclusion by law schools of military recruiters is not "inherently expressive,"
+      because such conduct has meaning only if the law schools accompany their conduct
+      with speech explaining it.
+    - i.e when you see a military recruiter ushered away, you don't know for what reason
+      that is happening (maybe all the meeting rooms are full?)
+    - Thus, "explanatory speech is necessary"
+    - Also held that the statute serves the government legitimate interest in
+      facilitating military recruitment
+
+Doe v Reed
+  - Case: Washington state public records statute that authorizes public disclosure
+    of the names of individuals who sign referendum petitions
+  - Court concluded that petition signing remains expressive even when it has
+    a legal effect on the electoral process
+
+Nevada Communication on Ethics v Carrigan
+  - Case: A state legislator committed an ethics violation by voting for a casino
+    project that his campaign manager ran. However, he claimed that his vote is
+    a right under the First Amendment
+  - Court:
+    - Legislator's votes are not protected speech: "The legislative power thus
+      committed is not personal to the legislator but belongs to the people;
+      the legislator has no personal right to it"
+    - Votes by legislators are different from votes by citizens
+    - Doe v Reed stated that an inherently expressive act remains so despite a government
+      act. But in this situation, Carrigan is claiming that "a governmental act
+      becomes expressive simply because the governmental actor wishes it to be so"

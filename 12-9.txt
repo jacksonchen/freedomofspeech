@@ -1,0 +1,200 @@
+In libel action, public official bringing a claim must show "actual malic",
+  which requires they show the defendant knew or acted with negligent disregard
+  about the falsity of the statement
+
+  False = "negligent disregard" is wrong, it should be reckless disregard
+
+If a reporter gains access to confidential gov't info through unlawful means,
+  the newspaper cannot be punished for publishing this information
+
+  True:
+    - Bartnicki v Vopper (newspaper got illegal recording of union official.
+      Court ruled that even though info was illegally obtained, the newspaper wasn't
+      the one doing the illegal obtaining)
+    - Could also cite NYT v US (Justice Black's test)
+    - Press has the right to publish any info it receives, even if it received it
+      through unlawful means
+      - The gov't can only go after those directly involved in the unlawful conduct
+
+The first major Supreme Court decision that served to create the "clear and present"
+  dangers' rule was:
+
+  Frohwerk v US
+  -> Schenck v US
+  RAV v City of St Paul
+  Dennis v US
+
+Which of the following is most clearly NOT required for symbolic speech to be restricted?
+
+  Must be content-neutral
+  -> Must be passed by popular vote
+  Must further a substantial gov't interest
+  Must be incidental and no greater than is essential to the protection of that interest
+
+------------------------
+BASICS OF EACH DOCTRINE
+
+12 doctrines:
+  - Advocacy of Illegal Conduct
+    - Speech and expression likely to incite imminent and illegal conduct will not be protected (Brandenburg)
+  - Fighting words: Words likely to incite avg person to violence is not protected (Chaplinsky)
+    - Has been narrowed down over time (Texas v Johnson, Street v NYC)
+    - Must be directed at someone (Cohen v California)
+    - Hostile audience
+      - Feiner
+      - Edwards v South Carolina
+  - Obscenity: (Miller case) If average person finds
+    (1) prurient interest [exclusively sexual]
+    (2) speech or word depicts in a patently offensive way
+    (3) lacks serious political, scientific, artistic value
+
+    Way to find if its patently offensive
+      - (a) describes normal sexual acts
+      - (b) masturbation, excirtory functions, or "lewd exhibition of the genitals"
+  - Lewd and profane/indecent speech
+    - Similar to obscenity but not the same doctrine
+    - Speech will generally not be constitutionally prohibited, as the listener just has
+      to avert their eyes (Cohen v Cali)
+    - Exception to this rule:
+      - Speech over broadcast medium (Pacifica case)
+        - Even a warning at the start of the broadcast will not be enough, people tune in at different times
+          and they will be *surprised*
+      - Zoning ordinances may prohibit indecent exhibitions (e.g strip clubs) -> justifiable
+        in gov't interests in reducing crime and increasing quality of life (Young v American ...)
+  - Hate speech
+    - Protected under 1A
+    - Any regulation that specifically targets speech because of its hateful viewpoint
+      constitutes viewpoint discrimination, and thus unconstitutional. Even if that
+      speech falls under a different unprotected category (RAV v St Paul)
+      - Targeting cross burning as a form of fighting words, you can't ban that (viewpoint discrimination)
+    - Hateful conduct motivated by hateful intentions (assault based on discriminatory intentions) MAY be
+      punished more
+      - Wisconsin v Mitchell
+  - Libel
+    - Public official or figure may only recover damages for a defamatory falsehood if they
+      can show "actual malice". Satisfied in one of two ways
+      (1) Knowledge that the statement is false
+      (2) Reckless disregard for the fact that it is false
+    - NYT v Sullivan
+    - Who is public figure?
+      - "All purpose": ppl who have achieved wide fame or notoriety
+      - "Limited purpose" public figure: Voluntarily engaging in public controversy in an attempt to effect outcome
+        - Gertz v Welsh
+      - Gertz also tells you what to do with private figures
+    - Private figures: Remedy cannot exceed actual damages, unless if actual malice is shown
+  - Privacy
+    - States may not prohibit publication of info already available in public records for
+      privacy purposes (Cox broadcasting v Cone)
+    - Even true if info obtained illegally (Bartnicki v Vopper)
+  - Symbolic Speech
+    - Conduct in or itself may be speech. Conduct that is expressive is protected
+    - Gov't may regulate conduct, which may incidentally effects 1A speech and expression IF:
+      (1) not related to suppression of free expression
+      (2) there is substantial gov't interest
+      (3) regulation narrowly tailored to achieve that interest
+    - Case: O'Brien
+    - When is infringing on speech incidental?
+      - If law not directed at speech
+      - Not the expressive element of action that the regulation hopes to prohibit
+      - e.g if you're wearing armband, gov't more likely to be targeting that
+        the speech that the armband is conveying rather than the fashion choices
+  - Public forum
+    - There are two ways something is public forum:
+      (1) if it's a quintessential public forum (time immemorial; time sees fit by public
+        for people to share their ideas)
+        - Parks
+        - Public streets
+        - Case: Schneider, Hague v CIO
+      (2) Designated public forums
+        - When by its permitted use and designation, the gov't or other public actor
+          has effectively designated it as a place of exchange of ideas and free speech
+        - What designates a place:
+          - Must be more than just public access:
+            - Greer case: Roads leading into military base that were open to the public,
+              but this was not enough for it to be a public forum even though the roads were public
+            - Lehman case: Public transport with advertisements on it. Gov't tried to ban
+              paid political ads; Court rejected argument that those ads were public forum.
+              Gov't wasn't trying to create a public forum through its public transport.
+              Advertising was just economic.
+          - University in question (public university) opened spaces for student group
+            meetings. Those are public meetings where people share ideas. Thus,
+            those spaces become public forums (Widmar)
+        - Case: Widmar
+    - Rules if it is public forum
+      - Gov't has a limited ability to restrict speech in a quintessential public forum
+      - May only restrict in:
+        (1) Regulation must be content-neutral
+        (2) There must be alternate means of expression in that medium available
+        (3) There is substantial gov't interest
+        (4) Regulation is narrowly tailored
+      - Case: US v Grace
+        - Sidewalk outside of the Supreme Court
+      - When regulating public forum: Time, manner, and place regulation is okay
+    - If not public forum and the gov't regulated speech, it will use rational basis review
+      - Cases: Lehman, Lee
+      - Rational basis: If gov't have a logical rational reason, it is fine (deferential stance, i.e not very scrutinizing)
+    - Any form of content-based regulation is presumptively unconstitutional,
+      and must pass strict scrutiny (Reed v Town of Gilbert)
+    - Gov't may only completely prohibit a medium of expression in a public forum if
+      the regulation passes strict scrutiny (e.g leaflets) - US v Grace
+  - Prior Restraint
+    - Preventing or restraining the publication or issuance of speech or expression is
+      almost never permissible
+      - Pentagon Papers case: Show almost nothing imaginable constitutes substantial
+        interest that justifies prior restraint
+    - Extremely limited exception outlined in Neer v Minnesota: Disclosing the # and location of troops in wartime
+  - Freedom of Press
+    - Doctrines about the press
+      (1) no constitutional right to the confidentiality of sources, though States may pass through own privileges permittingly
+      (2) confidentiality of sources if only protected from gov't intervention when there is bad faith motivation
+        (e.g gov't trying to mess with you and damage your ability to operate as member of press)
+      (3) No right to confidential or inaccessible information that is not available to the public
+        - Case: Branzberg for (2) and (3)
+      (4) Constitutional right to access criminal trials
+      (5) Differential treatment o fpress is not okay in the following:
+        - If it singles out the press as an industry (Minneosta Star and Tribune)
+        - If it targets a small group of speakers like newspaers (Minneosta Star and Tribune)
+        - If it threatens to suppress particular viewpoints (Radcliffe)
+        - If it discriminates on basis of content (Radcliffe)
+      (6) Editorial control protected (Miami Herald)
+      (7) Gov't regulation to improve the marketplace of ideas is generally not permissible under Miami Herald,
+        but stuff like fairness doctrine in broadcasting is okay in (Red Lion) based on
+        scarcity of airwaves
+  - Political solicitation, expenditures, other activities
+    - Regulation on individual or corporate contributions is permissible to prevent
+      the appearance or reality of corruption, given that they are not so low as to
+      make effective political advocacy impossible (Buckley v Valeo)
+    - Regulation on expenditures are unconstitutional (Buckley)
+    - Corporations can only be subjected to the same restrictions as individuals (Citizens United)
+    - Aggregate contribution limits are unconstitutional (McCutcheon)
+    - Prohibition on partisan speech on federal employees is okay (US Civil Service Commission v National Ass'n of Letter Carriers)
+    - Adverse gov't action on employee's criticism  matters of public concern is NOT okay (Pickening)
+    - Adverse govt action on employee's criticism matters NOT of public concern is okay (Connick)
+    - Employment decisions based on political affiliation related to gov't employees in non policy making role
+      is unconstituional (Elron)
+
+What is the long answer response/policy question (last 20%)?
+  - Type of question to expect (not a hypothetical):
+    - Consider the two viewpoints:
+      - Gov't argued that it could create new categories of unprotected speech
+        based on balancing test that balances it with social cost, and then punished that category of speech
+        based on its social cost
+      - In considering application fo constitutional principles to new technologies, Court should
+        understand new technology and see societal implications of this technology
+        and not jump to conclusion that it's the same as before, and should not dismiss
+        judgement of legislatures who assess implications of new technology.
+        Should gov't be able to regulate the sales of VR programs in consistency with 1A?
+  - When answering, use case law, underlying philosophy of 1A
+    - Given one or two statements, and you need to write a response based on the
+      prompt
+  - Policy question asks you what are the reasons behind the law, are they good,
+    what do you think the policy should look like: Underlines the way policy is
+    or should be
+  - Come to a conclusion, but make sure you looked at both sides
+  - FSC readings are really relevant here
+  - Spend most time on the issue tracker
+  - Dive into the ideas as quickly as possible
+    - Explain justification for your argument (case law, law itself)
+
+The uploaded readings on Coursework -- be aware of them
+Don't worry about the Knight Amendment cases

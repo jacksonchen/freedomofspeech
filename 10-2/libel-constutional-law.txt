@@ -1,0 +1,130 @@
+==== Constitutional Law Textbook ====
+
+Is low value speech protected? (two-level theory: high value and low value)
+  There are two results from segregating high value from low value speech:
+  - Burden of justification imposed on government when regulating high-value
+    speech would have to be lowered (government will remove speech that
+    it does not like because it is "low value")
+  - Properly stringent standards applied to efforts to regulate high-value speech
+    would have to be applied to low value speech as well (speech that should
+    be removed cannot be removed)
+
+False statement of fact
+  - Court maintained that there is no such thing as a false idea
+  - The issue is "false statements of fact", which generally arise in the
+    context of defamation
+  - NYT v Sullivan
+    - Question for the Court: Does 1A limit State from awarding damages in a
+      libel action brought by a public official against critics of his official conduct
+    - Case: Sullivan claims to be libeled by a full page advertisement in NYT.
+      There were several undisputed inaccuracies in the advertisement (but not
+      absolute falsehoods).
+        - The ad never mentioned Sullivan by name but the police, which he claims
+          implies him
+        - Sullivan "made no effort to prove that he suffered actual pecuniary loss
+          as a result of the alleged libel"
+        - Jury was instructed just to find if the statements were libelous, with
+          falsity and malice presumed and general damages presumed
+    - Court's opinion: Reverse the lower judgement and that Alabama courts did
+      not follow constitutional protection of 1A
+      - Libel is covered by the 1A, as debate on public issues will include
+        "unpleasantly sharp attacks on government and public officials". The
+        ad covers national issues and is thus absolutely relevant to 1A.
+      - Inaccuracies are protected since speaker should not have the burden of
+        proving truth; i.e "breathing space" for freedoms of expression
+        - Putting the burden on speaker leads to "self-censorship" and hurts
+          public debate of issues
+      - Criticism of "official conduct does not lose its constitutional protection
+        merely because it is effective criticism and hence diminishes their
+        official reputations"
+      - Exception where officials can recover damages: "actual malice" -- with
+        knowledge that it was false or with reckless disregard for the truth
+        - In this case, NYT only showed negligence in not double checking the truth,
+          not "reckless disregard". Also the ad was not "of and concerning" the respondent,
+          since it only criticized the government (the police) and not the official
+    - Justice Black and Douglas concurring opinion:
+      - The concept of malice is hard to prove or to disprove
+      - "State libel laws threaten the very existence of an American press"
+        - The punitive awards for libel threaten the financial sustainability
+          of the newspaper
+      - They believe the Constitution grants "the press an absolute immunity for
+        criticism of the way public officials do their public duty"
+    - Crux of the case: Censorial power would be "Government over the people" and
+      not "in the people over the Government"
+  - Curtis Publishing Co v Butts & Associated Press v Walker
+    - Question to the Court: Whether libel action brought by an individual who
+      is a "public figure" but not a "public official" must also be governed
+      by NYT standard
+    - Butts was an acclaimed head football coach, employed by the private Georgia
+      Athletic Association. Walker had a distinguished military career but was
+      a private person.
+    - Court found NYT standard was applicable to public figures as well. Also,
+      Butts and Walker both constituted public figures.
+      - Public figures have "ready access to mass media and communication both
+        to influence policy and to counter criticism of their views"
+  - Gertz v Robert Welch, Inc
+    - Gertz, a Chicago attorney representing a kid who was killed by Chicago police,
+      claimed libel against a publisher for stating that Gertz has a criminal
+      record and long-standing communist affiliations
+    - Jury awarded $50k for Gertz, the trial court reversed & concluded that NYT
+      standard applied to any discussion of "public issue"
+    - Court reversed the trial court
+      - "There is no constitutional value in false statements of fact", but it
+        is "inevitable in free debate"
+      - However, NYT only applies constitutional protection of defamation to public persons,
+        as public people "voluntarily" exposed themselves to the increased risk
+        of injury from defamatory falsehood
+      - A public person this may be someone who is "drawn into a particular public
+        controversy and thereby becomes a public figure for a limited range of issues"
+        (i.e a temporary public person)
+      - Private people did not sign up to be exposed to defamation, and thus
+        there is a "strong state interest in compensating private individuals for
+        injury to reputation", BUT this only extends to compensation for ACTUAL injury
+        (i.e not compensation for presumed injury)
+  - Dun & Bradstreet v Greenmoss Builders
+    - Case: Credit reporting agency told five subscribers that a construction contractor
+      filed voluntary petition for bankruptcy, which is inaccuracy
+    - Trial judge instructed jury it could award presumed and punitive damages without
+      a showing of "actual malice"
+    - Court's opinion: Affirmed the jury's verdict in 5 to 4 judgement
+      - Speech on "matters of purely private concern is of less First Amendment concern",
+        i.e state regulation of such speech does not threaten free and robust debate
+        of public issues
+      - In cases of speech involving no matters of public concern, "state interest
+        adequately supports awards of presumed and punitive damages even absent
+        a showing of actual malice"
+  - US v Alvarez
+    - Case: Stolen Valor Act makes it a crime for anyone to state they were awarded
+      a medal authorized by Congress. Alvarez falsely stated that he received the
+      Congressional Medal of Honor.
+    - Supreme Court held the Act unconstitutional
+      - Stolen Valor Act applies too broadly, without regard to whether anyone is
+        harmed by the falsehood
+      - Government can't compile "a list of subjects about which false statements
+        are punishable"
+      - Government failed to show why counterspeech would not suffice to achieve its interest
+        (of protecting Congressional medals)
+        - Court proposed creating a database that listed Congressional Medal of
+          Honors winners
+    - Breyer's concurrence:
+      - Government can constitutional restrict some types of factually false statements
+        (fraud, perjury, etc). But, the government provided no convincing explanation why
+        a more "finely tailored statute would not work", thus Stolen Valor Act fails
+        intermediate scrutiny
+    - Alito's dissent:
+      - Stolen Valor Act presents no risk at all that valuable speech will be suppressed,
+        since it is a narrow law
+      - The Act is also viewpoint neutral
+  - Hustler Magazine v Falwell
+    - Case: Hustler published a parody of an ad concerning well-known Jerry Falwell.
+      It pictured him in a drunken incestuous rendezvous with his mother in an outhouse.
+      The ad had small print at the bottom, stating ad parody, not to be taken seriously.
+    - Jury found in favor of Falwell on intentional infliction of emotional distress claim
+    - Court reversed:
+      - Respondent argues that different standard should apply here because the State
+        seeks emotional distress rather than reputational damage
+      - However, the Court holds that "the law does not regard the intent to inflict
+        emotional distress as one which should receive much solicitude"
+      - Court also rejected Falwall's argument that this cartoon was especially
+        outrageous, as the Court does not believe that an outrageousness standard
+        would be objective enough for jury evaluation

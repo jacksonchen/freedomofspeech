@@ -1,0 +1,289 @@
+Issue spotter
+  - Get the rules of the issues you spot
+  - Fact pattern
+  - Weigh likely counterarguments to your argument
+    - e.g this is an obscenity, but this doesn't seem to be based on sexual conduct
+
+Advocacy of Illegal Conduct
+  - Government CAN restrict speech that advocates or incites illegal conduct
+  - Brandenburg: Imminent and likely to produce such action
+  - Very protective standard (e.g much be imminent, must be about to occur)
+  - Schenck v US: Holmes' dissent introduced clear and present danger test
+  - Abrams case, Holme's dissent:
+    (1) Competition of the market (marketplace of ideas)
+    (2) Not punishing opinions just because we (the government) disagree
+  - Whitney v California: Brandeis' concurrence says that public discussion is
+    a duty, not a right
+
+Hostile Audience & Fighting Words
+  - Terminiello: Speech may not be restricted because the ideas offend the audience
+    - Offensiveness ("stirs the public to anger") does not justify restriction of speech
+    - Function of free speech under our system is to invite dispute; best serves its
+      high purpose when it induces a condition of unrest, creates dissatisfaction
+      with conditions as they are
+  - Feiner v New York
+    - Court found Fiener's arrest is okay because the police thought that a riot might
+      occur
+  - Chaplinsky: Fighting words doctrine
+    - Well-defined narrowly limited classes of speech, the prevention of which
+      is perfectly acceptable (fighting words -- words very utterance inflict
+      injury or tend to incite an immediate breach of the peace)
+    - Later decisions have narrowed this doctrine, and no other decision has
+      upheld a restriction based on the fighting words doctrine (e.g Texas v Johnson)
+    - Only really cite this case for fighting words
+
+Obscenity
+  - First Amendment does not protect this
+  - Miller v California: Established guidelines
+    (a) "Average person apply contemporary community standards" would find prurient interest
+        (sexual desire, interest)
+    (b) Patently offensive
+    (c) The work lacks literary, artistic, political, or scientific value
+
+Lewd or Indecent Speech
+  - Things that don't meet the Miller test, but are still obscene
+  - Cohen v California
+    - Not obscenity (not erotic), not fighting words or hostile audience (not directed to any person)
+    - Gov't can only shut off discourse to protect others from hearing if its proves
+      to be substantial privacy interests being invaded in an intolerable manner
+      (e.g door to door solicitors may be an invasion of privacy interest)
+    - Viewers could've easily looked away
+    - Government cannot prohibit lewd and indecent speech
+  - Pacifica case
+    - Limited civil sanctions can constitutionally be invoked against broadcast of
+      patently offensive words dealing with sex and execration. The words need
+      not be obscene to warrant sanctions
+    - Relevant factors: audience, medium, time of day, and method of transmission
+    - "Emphatically narrow holding"
+  - Sable Communications: "Dial-a-porn" services prohibitions were unconstitutional
+    - Telephone communications different from broadcast
+  - Reno v ACLU
+    - Risk of encountering indecent material on Internet by accident is remote
+      because of the number of affirmative steps required to access specific material
+
+Hate Speech
+  - Only laws that are narrowly tailored and applied in circumstances that constitute
+    incitement to imminent lawless conduct or violence are okay
+  - Any content based restriction will face strict scrutiny
+    - Must have compelling government interest
+    - Narrowly tailored to achieve this purpose
+    - Law uses least restrictive means to achieve the purpose
+  - RAV v St Paul
+    - Cross burning ordinance was overly broad and impermissibly content-based,
+      violated 1A
+    - Prohibits permitted speech on the basis of the subjects the speech addresses
+  - Wisconsin v Mitchell
+    - State's hate crime penalty enhancement statute is okay, since physical assault
+      is not expressive conduct protected by 1A
+
+Libel
+  - When should someone pay money damages to someone else for making false statements about them?
+  - NYT v Sullivan
+    - Alabama strict liability standard is unconstitutional
+    - Very high standard for public officials (and later expanded to public figures)
+      - Can only recover damages if the statement is made with actual malice
+        (known to be false or reckless disregard about the falseness)
+      - Reckless disregard: Aware of the risk or consequences of being false but
+        published anyways
+    - Debate on public issues should be open, and this may include 'unpleasantly sharp
+      attacks' on public figures
+    - Breathing space principle: Don't want to deter criticism of the government in
+      fear of punishment
+  - Curtis Publishing v Butts
+    - Expanded the NYT v Sullivan standard to public figures, as well as public officials
+    - Public figures have as ready access as public officials to mass media of communication,
+      both to influence policy and to counter criticism of their views and activities
+    - Self correcting theory: If public figures have the ability to self correct (the record),
+      it shouldn't be up to the courts to "correct the record"
+  - Gertz v Welch Inc
+    - Private individuals should be more protected, and thus don't need to prove actual malice
+    - But even for private individuals, states may not impose strict liability on news media
+    - Standard of fault (less than actual malice) limits compensation for private people
+      to actual injury (can't include like emotional damage)
+      - If you want punitive damages against publisher, MUST show actual malice
+  - What is a public figure?
+    - Full purpose: An individual who has pervasive fame or notoriety that they
+      are public figure for all purposes
+    - Voluntary public figure: Someone who injects themselves into particular public
+      controversy and therefore becomes a public figure for a limited range of issues
+  - Other false statement cases
+    - Liability for inaccurate credit report? Court upheld defamation award (Greenmoss Builders)
+      - Speech on matters of purely private concern is of less 1A concern
+    - Criminal to lie?
+      - Stolen Valor Act was ruled unconstitutional in Alvarez case, since content-based
+        restrictions on speech are subject to strict scrutiny, and are almost
+        always invalid
+      - Stolen Valor Act was drafted too broadly ("no clear limiting principle")
+        attempting to limit speech that could cause no harm
+      - Criminal punishment for such speech is improper
+  - Hustler Magazine v Falwell
+    - Parody of Falwell: Falwell sued for libel AND intentional infliction of emotional distress
+      (to sue for libel, need to prove false statement of fact & actual malice)
+    - Jury found against Falwell on libel claim, a parody cannot be understood as
+      stating actual facts
+    - Jury found in favor of Falwell on the intentional infliction of emotional distress
+    - The Court reversed: Public figures cannot recover for intentional infliction
+      of emotional distress without showing the publication contained a false statement
+      of fact which was made with "actual malice" (pretty much the same standard as libel)
+    - Parody could only lose a libel suit if a "reasonable" person might find it as
+      a false statement of fact
+
+Privacy
+  - Court takes strong position against gov't efforts to prohibit publication of
+    truthful information (see Pentagon Papers)
+  - Some types of info so private and non-newsworthy that it can be restricted the
+    publication on theory that they have "low" 1A value
+  - Cox Broadcasting v Cohn
+    - A reporter legally obtained the name of a rape/murder victim by looking through
+      public judicial records associated with the case, then he reported her name on news
+    - Court found that State cannot punish the reporter
+    - While there is a zone of privacy surrounding every individual, but info that
+      is publicly accessible cannot be punished for broadcasting
+    - The responsibility is on the State to avoid exposing private information publicly
+  - Takeaways
+    - Truthful disclosure of private facts concerning an individual constitutes a tort
+      if disclosure is "highly offensive" to a reasonable person and is not in itself newsworthy
+  - Unlawfully obtained information
+    - Bartnicki v Vopper: Radio station got access to unlawfully obtained tape recording
+    - Court found that radio station cannot be punished because the topic was a matter
+      of public concern, and the broadcaster did not unlawfully obtain it themselves,
+      even though the broadcaster knew it was obtained illegally
+
+Symbolic Speech
+  - Non-verbal conduct (e.g burning a draft card or a flag), when is a law regulating such conduct unconstitutional?
+  - US v O'Brien
+    - A guy burned his draft card as symbolic speech. Statute that he was convicted for:
+      "anyone who forges, alters, knowingly destroys, ... any such certificate"
+    - Court ruled that the statute was constitutional, as gov't regulation is sufficiently
+      justified (compelling government interest to maintain the draft)
+    - Government regulation is unrelated to expression, since it is about maintaining the draft
+    - Regulation is unrelated to content and is narrowly tailored to achieve the government interest
+    - Harlan concurrence: It would be unconstitutional to prevent a speaker from reaching a
+      significant audience with whom he could not otherwise lawfully communicate, but
+      that does not apply in O'Brien's case
+  - Tinker v Des Moines School District
+    - School officials suspended 3 students because they wore black armbands to protest Vietnam
+    - Court invalidated the suspensions -> wearing an armband for expressing certain
+      views is symbolic act and is free expression
+    - School authorities did not purport wearing all symbols of political or
+      controversial significant, but it was banning a particular symbol (specific viewpoint discrimination)
+  - NAACP v Alabama
+    - Relatively rare decision where Court invalidates an incidental restriction on expression
+    - All out-of-state corporations doing business in the state must disclose all their
+      members.
+    - Court struck out the Alabama provision since it would have adverse ability for
+      NAACP members' constitutional rights to assembly and speak
+  - Holder v Humanitarian Law Project
+    - Federal statute made it unlawful for anyone to provide "material support" to
+      foreign terrorist organizations (this includes expert advice)
+    - Humanitarian Law Project wanted to help terrorist' legal channels
+    - Although the Court upheld the statute on other grounds, it rejected the gov't's argument:
+      - O'Brien does not provide applicable standard since this statute regulates speech
+        on the basis of its content
+      - It's more like Cohen because it's content based, so strict scrutiny was applied
+        and passed (hence the statute was constitutional)
+  - Flag misuse: Spence v Washington
+    - Washington statute on flag misuse, cannot exhibit an American flag with anything
+      else superimposed on it
+    - Court declared the statute unconstitutional, since it is an expression prohibition
+      (in O'Brien it must not be related to expression for it to be okay)
+  - Flag burning: Texas v Johnson
+  - Barnes v Glen Theatre: Court held that state prohibition against public nudity does not violate 1A
+  - Eric v Pap's AM: Upheld ordinance banning nude dancing, since it satisfied O'Brien test
+  - Content neutral restrictions v content-based
+    - Content-neutral: Limit expression without regard to its content. Turn neither on their face nor as applied
+      - Prohibition on the use of loudspeakers, ban on billboards, campaign contributions, draft cards
+      - Must only survive intermediate scrutiny
+      - Generally tested by "balancing"
+    - Content based: Presumptively unconstitutional and subject to strict scrutiny, the highest
+      form of judicial review
+      - Ones that were upheld: Holder case (only time when restriction on political
+        speech passed the Brandenburg test)
+  - Speech on private property
+    - Court has protected the right of owners or private property to prevent others from
+      using their property for speech purposes
+    - Struthers case: Struck down conviction of door-to-door religious solicitor,
+      but left the decision to property owner
+    - Only exception was a company town case where it practically acted as public grounds
+      (Marsh/March v Alabama)
+      - Applied to shopping malls
+
+Public forum
+  - Hague v CIO: Gives us public forum doctrine
+    - Streets and parks are public forum because they have "immemorially" been used
+      for assembly and public meetings
+  - Schneider v State
+    - Could not ban leafletting on the public streets
+  - Jamison v Texas
+    - Invalidating city ordinance prohibiting dissemination of leaflets
+  - Hague/Schneider theory applied to public property that has been used "time out of mind" for speech purposes
+  - US v Grace
+    - Court invalidated federal statute prohibiting people to display on sidewalks outside of
+      Supreme Court any flag banner or device meaned to ....
+    - Court said public sidewalks around Supreme Court are public forums, and the gov't cannot restrict
+    - Government may enforce a reasonable time, place, and manner restrictions in public
+      forums only if
+      (1) restrictions are content-neutral
+      (2) narrowly tailored to serve gov't interest
+      (3) leave open ample alternative channels of communication
+    - Gov't may only absolutely prohibit some speech if it serves a "compelling government interest"
+  - Grayned v Rockford
+    - Demonstration was violating local ordinance preventing noise or diversion around a school
+    - Court upheld the conviction, and said that disrupting school activities is compelling and narrowly tailored
+    - Noted that the decision is made on an individualized basis
+  - Frisby v Schultz
+    - Court upheld ordinance banning targeted residential picketing, since it said
+      it gave ample alternate means of protest
+    - Narrowly tailored to serve compelling gov't interest: the privacy of the home
+      (is of the highest order in a free and civilized society)
+  - Abortion clinic buffer zones: Content based v content neutral (depends on the
+    nature of establishment that is being regulated)
+    - Court is guessing which ideas are being expressed if you protest outside
+      an abortion clinic -> more content based and thus subject to more scrutiny
+  - Licensing (permits)
+    - Cox v New Hampshire: Court upheld convictions on Jehovah's Witnesses that
+      did not get permits.
+      - The guy who gives out permits can only consider time, place, and manner
+      - The licensing board was not vested with arbitrary power
+  - Fees
+    - Can only charge nominal amounts that cover the cost of policing or cleaning up (public expense of an event)
+    - Cannot charge huge fees that serve as a restriction on those who can't afford
+    - Factors depend on the size of the crowd or parade
+  - Disclosure
+    - Required disclosure would restrict freedom to distribute info and thus
+      freedom of expression
+    - For speakers persecuted, anonymous pamphleteering or whatever is maybe
+      their only way for advocacy and dissent (anonymity is a shield from the tyranny
+      of the majority)
+  - Krishna Consciousness v Lee: Airports aren't public forums
+  .... (the slides are being sent)
+
+Prior Restraints
+  - Court held special presumption under 1A against use of prior restraints
+  - A prior restraint may be invalid even if the expression at issue could be constitutional prohibited
+  - Putting things through a censor (Lovell v Griffin) is struck down
+  - Censorship system for motion pictures is only okay, when the burden is on the censors (see Freedman v Maryland)
+  - Near v Minnesota: Enjoining scandalous newspapers is facially unconstitutional
+  - Pentagon Papers case: Can only block publication if it will cause direct, immediate,
+    and irreparable damage to our Nation or its people
+
+Freedom of the Press
+  - Major cases
+    - Branzburg (no right as a journalist to keep information confidential if you
+      are required to testify)
+    - Richmond Newspapers (1A right to attend criminal trials -> 1A includes right to receive information and ideas)
+    - Minneapolis Star v MN (can't treat newspapers differently and single them out via a law)
+    - Miami Herald: The government cannot interfere with the editor's role in a newspaper,
+      and can't impose penalty on the basis of content
+    - Red Lion: Broadcasting is different from newspapers (FCC Fairness Doctrine)
+      - Scarcity doctrine: Gov'ts role in allocating scarcity
+
+Campaign Finance
+  - Buckley v Valeo
+    - Upheld contribution limits but stuck down expenditure limits
+    - Started the idea that the Court disagreed that spending money is conduct
+    - Laws that limit political speech are subject to strict scrutiny
+  - Citizens Unite
+    - Speaker does not lose their protection because their identity is a corporation
+    - Corporations are some of the most important players in the economy
+    - Here is an example where the Court did NOT follow stare decisis

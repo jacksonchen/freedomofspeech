@@ -1,0 +1,49 @@
+Case: Reporter for WaPo, reports on foreign affairs, national security, and the
+  White House. Received a verbatim transcript of a Trump convo with Erdogan,
+  where Trump asks: "By the way, need a favor: want you to investigate Biden fam,
+  and it's also okay if you go into Syria, push the Kurds back, and take it over with Russia".
+  Erdogan says sure. Lots of emails and docs show how we will withdraw, will happen to Kurds
+
+Would journalist do?
+  - Ask WH and Erdogan for a comment to see their response
+    - President says he want to use every means within constitutional power to
+      give explicit instructions to AG Barr (to fight this article)
+    - Recall someone in gov't leaked this to reporter. The way in which this leak
+      even happened may change what the gov't can do vis-a-vis the newspapers
+  - Can leaker be prosecuted? What can the government do here:
+    - Unclear by probably yes, leaker has no 1A claim
+    - Could prosecute the reporter that it is a person soliciting a crime
+
+Pentagon Papers case
+  - Court held that government cannot have a *prior restraint* to prosecute
+    - Decision was limited because a law wasn't passed by Congress authorizing
+      the injunction
+    - The result is actually potentially very narrow (the papers themselves were
+      not that dangerous)
+  - Test from the case:
+    - Did publication know about classified information
+    - Harm to national security
+    - Not contribute to the public
+  - Supreme Court refused government request to enjoin the NYT and WaPo from
+    publishing a several volume history of how the US went into the Vietnam war
+
+  - Prior restraint
+    - Could be through a centralized board that can reject materials from publication,
+      or just an injunction against publication
+    - Near v Minnesota
+      - Strong presumption against constitutionality of prior restraint
+      - Added injunctions against publication to this category of prior restraint
+
+Making the case it's constitutional to prosecute publication of something
+  - How to show that the Pentagon Papers case is irrelevant here
+    - Congressional Act -> not in the Papers case (that was only around executive action)
+    - Claim that it's fresh new territory from the Papers case, try to limit that case
+    - Claim that the Pentagon Papers case is super narrow and that the publication
+      here has legitimate harm to the government
+  - What would newspapers respond?
+    - Say Pentagon Papers had broader implications about an ethos in society
+    - Press has an important role to play against government secrecy
+  - How is the world today different from the time when Pentagon Papers was decided?
+    - Information access today is significantly simpler
+    - Leaking is much more vast in scope (the risk of harmful information getting out
+      are much greater)

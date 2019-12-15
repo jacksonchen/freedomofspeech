@@ -1,0 +1,56 @@
+Packingham v North Carolina Case:
+  - Question for the court: NC Statute stating that it is felony for sex offender
+    to access social media websites such as Facebook and Twitter. Is this permissible
+    under 1A Free Speech clause?
+  - Case: Packingham was a registered sex offender. After getting a traffic ticket
+    dismissed, he posted on Facebook thanking God for that. Packingham never
+    contacted a minor or committed any other illicit act on the Internet
+  - North Carolina Supreme Court reversed Court of Appeals ruling, and stated that
+    the law was constitutional
+  - Court's decision: Reverses lower court ruling -- concludes statute violates 1A
+  - Court's majority opinion:
+    - Cyberspace is one of the most important spaces for exchanging views (Reno v ACLU)
+      - Court acknowledges that "what they say today might be obsolete tomorrow"
+    - The law must not "burden substantially more speech than is necessary to further
+      the government's legitimate interests": The NC statute is way to broadly worded
+      - State allowed to tailor laws to prohibit a sex offender from "engaging
+        in conduct that often presages a sexual crime" (e.g contacting a minor
+        on a website)
+      - Government "may not suppress lawful speech as the means to suppress unlawful
+        speech" (Ashcroft v Free Speech Coalition)
+    - NC hasn't proved that the law needs to be this broad to prevent sex offenders
+      from vulnerable victims
+      - Defense used the upholding of law banning demonstrating 100 ft from polling
+        place, but in that situation demonstration is conflicting with another
+        constitutional right -- the right to vote
+  - Alito concurring judgement:
+    - Agrees with majority opinion regarding the "law's extraordinary breadth"
+      - Burdens substantially more speech than is necessary to further the
+        government's legitimate interests
+      - Blocks websites that are unlikely to facilitate commission of a sex crime
+        against a child (e.g Amazon.com, news websites, WebMD)
+    - Disagrees with majority that "equates the entirety of the internet with
+      public streets and parks" -> definitely some website should be off limits
+      - The Internet is harder for parents to monitor the activity of their children
+      - Harder to see a sex offender approaching children on Internet than in real life
+      - Internet offers "unprecendented degree of anonymity"
+    - The NC law is a content-neutral restriction that serves a legitimate state
+      interest -> the State's interest in protecting children from sex offenders
+      online is legitimate
+
+Davison v Randall
+  - Case: Davison (a constituent) was banned from Randall's Facebook page. Davison
+    attended a town hall where she implied School Board members acted unethically
+    in financial transactions. Randall responded and said it was a set up question.
+    Davison then posted in Twitter and Facebook to continue calling Randall out.
+    Randall deleted posts that Davison commented negatively about and then banned
+    Davison's SGP page he was commenting with. However, Randall unbanned 12 hours later.
+    - Randall's Facebook page was designated as a politician page, and she used the
+      page for as a public government information board
+    - Davison is suing in regards to the banning (did not challenge the deletion
+      of post)
+  - Appeals Court affirmed district court ruling that Davison's 1A rights
+    were violated
+  - Court opinion:
+    - Randall acted "under color of state law"
+  pg 6 of this case

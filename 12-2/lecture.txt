@@ -1,0 +1,45 @@
+Case: Lizzie is President. She appoints Bernie to run the FCC. Bernie says that
+  spending money on political advertisements needs to be shut down. Stations and
+  networks are no longer allowed to run political advertisements. Says it's outrageous
+  that Bloomberg is able to spend $30M on advertising across stations to become
+  a relevant candidate. Also says we will take on the Citizens United case --
+  will try to impeach justices on the Supreme Court for Citizens United.
+  Also no more corporate advertisements, citing the fairness doctrine.
+
+Are Bernie's new rules in the FCC constitutional or not?
+  - Citizens United:
+    - Case: Citizens United released a movie on Hillary Clinton. Because she was
+      a candidate for the Democratic Party, the Bipartisan Campaign Reform Act
+      prohibited them (i.e a corporation) from distributing this film.
+    - Citizens United is a non-profit that is legally in a corporate form
+    - Case is about if we can limit the speech of corporations in the electoral process.
+    - Majority on the Court held that you CANNOT restrict political speech from
+      corporations.
+    - Argument for why corporations shouldn't be allowed speech
+      - Corporations would be unfair to shareholders if they took shareholder money
+        and made political statements (contributions)
+      - Massive corporations would take over political discourse
+      - Bans on corporate limitations on influencing political issues have existed
+        for over a century
+    - Arguments for why corporations should be allowed speech
+      - Newspaper companies (e.g NYT, WaPo) are for-profit companies that play
+        very much into influencing public political opinion
+      - The fear was way worse than the reality
+
+Supreme Court in campaign finance has drawn a distinction between contributions and expenditures
+  - Originated with Buckley v Valeo
+  - Campaign contribution include expenditures that are coordinated with a candidate
+    (that becomes a contribution)
+  - Absent that coordination, expenditures for/against candidates are fully protected
+    against any limitations
+    - Bloomberg spending $30M on ads, that is counted as expenditures under Buckley v Valeo
+  - Contributions may be limited in Buckley because it only entails a "marginal
+    restriction" (there are tons of ways to express speech -- i.e expenditures
+    not coordinated with the campaign)
+    - Government has a compelling state interest to prevent corruption, thus
+      contributions may be limited
+  - Money *is* the way how speech works, i.e money is speech
+
+Case: If President says you give up the right to criticize the President, then you
+  get a $1000 tax credit.
+  - Would be unconstitutional

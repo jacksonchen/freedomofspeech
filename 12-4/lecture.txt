@@ -1,0 +1,58 @@
+Exam
+  - True/False portion on basic 1A concepts
+  - Bulk will be the hypothetical to analyze the problem(s)
+    - Spend time at the beginning to understand the question and the facts
+    - Identify the issues that are raised
+    - Have a mental process that checks impulse from jumping in
+
+Case: FCC is looking to ban all political advertisements in the world of TV
+  and radio. This includes political advertisements on any political issues.
+
+  - Campaign finance cases are relevant in this situation
+  - Arguments that expenditures of money for politics is a form of corruption
+    - There are extremely limited restrictions for contributions because of
+      political quid pro quo
+    - There is also the theory of distortion of public debate -- people with extreme
+      wealth have disproportionate access to the public forum, and thus their ideas
+      have greater influence on public debate and the public mind
+    - Buckley v Valeo drew the distinction between contributions and expenditures
+    - Over the next 30 years, Supreme Court has loosened and allowed more and more
+      regulation
+    - Conservative majority in Citizens United culled all of the previous 30 years
+      back and backed a strong line on Buckley v Valeo
+      - Tackled the question of if corporate speech is protected (and it was determined
+        yes by overruling the Austin v Michigan Chamber of Commerce case)
+  - However, a ban on ads is more than just campaign finance
+    - Red Lion case (and Miami Herald)
+      - Issue: Can the government impose on broadcasters, an obligation to be fair
+        in the discussion of public issues? (i.e must present the other side when
+        bringing up an argument for one side of the issue)
+      - Court said this was constitutional because of the scarcity of the broadcasting
+        spectrum. No allocation system and allowing everyone to communicate will
+        lead to chaos.
+      - Court cares that the public is informed and presented with other views,
+        and broadcasters have overwhelming amount of power in swaying the public forum
+      - Bringing back to our case on hand: Internet has expanded the public forum
+        significantly, and also undermines the problem that there were too few people
+        who were able to voice their opinions. On the other hand, the Internet has
+        created a world where people don't have to encounter other view points (echo chambers).
+      - Scarcity rationale is presented as if it is a distinguishing feature from other
+        technologies of communication. It portrays broadcasting as somehow different
+        from everything else (e.g print) and thus justifying gov't intervention.
+        (Court shut down intervention in print medium in the Miami Herald case)
+    - FCC v Pacifica
+      - Banning indecent speech, LIMITING speech on the airwaves like how banning
+        political advertisements limits speech on the airwaves as well
+      - However, the FCC rule on OUR hands will limit speech because it is content-based,
+        and also limits wealthy people from being able to express speech, thus
+        it is likely unconstitutional
+  - What is the difference between this FCC rule banning all political advertisements
+    and the Red Lion fairness doctrine?
+    - Red Lion is about gov't intervention to expand speech
+    - This FCC rule is about gov't intervention to decrease (e.g limiting) speech
+      - This makes this case similar to FCC v Pacifica (see above)
+      - Eliminating speech tends to be worse than expanding speech
+  Concept of limiting speech to promote equality in speech
+    - Bollinger says it is inconsistent with 1A
+    - However, government having some role in the marketplace of ideas to shift
+      the balance of power is not unprecedented -> FCC fairness doctrine in Red Lions case

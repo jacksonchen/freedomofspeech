@@ -1,0 +1,73 @@
+Case: Zuckerberg testifies before Congress where is he going to be challenged
+  for why they allow political advertisements with false statements. Zuckerberg
+  wants to argue why Facebook should continue to allow false ads.
+
+Argument that false ads are constitutional
+  - NYT v Sullivan, where NYT is a private company and it is allowed to run misleading
+    statements
+  - Public forum doctrine
+    - Case: Hague v CIO
+    - Facebook v public time doctrine: Not time immemorial, also Facebook content
+      is not government hosted
+  - If someone is a public figure and use their public figure status to create a
+    public forum, are they obligated under public forum doctrine to make it an open forum?
+    - Trump and his Twitter feed
+  - Organizations that are private and by definition not state actor have the power
+    to organize speech however well they wish. Is there a way to reconceptualize this credence?
+    - e.g some private activity becomes so important for free speech that we
+      will treat that as state action or speech
+    - Marsh v Alabama: But this is fairly rare
+    - Shopping mall, but justices have started to back away from this
+    - People can argue that Facebook is so powerful that for First Amendment purposes,
+      that it can be treated as a state actor
+      -> where Facebook cannot discriminate on the basis of content; they must
+        allow hate speech and neo-Nazis to come speak
+    - NYT case resolved a small sliver of situations that allowed for some civil action by public officials
+      under certain conditions, and not an overarching case on public forum
+
+Case: Supposed Congress tells Zuckerberg that he cannot decide these questions on
+  speech on Facebook's platform, so they will pass laws to restrict his power
+  - If Zuck tells Congress they can't do that, he can back himself up with the
+    Miami Herald v Tornillo case
+    - Florida law stated that if candidate for office is critiqued in the newspaper,
+      they should have the similar amount of column space to respond
+    - The Court held that editing is what editors are for, and that it is not
+      the business of the government to tell newspapers what can be on their pages
+    - That case was unanimous; that law seems utterly inconsistent with the
+      way we think about freedom of speech and press
+  - How would Congressional lawyers respond to the Miami Herald case?
+    - They would respond with Red Lion Broadcasting v FCC case
+    - Court said gov't absolutely had the right to regulate the content of a publisher,
+      in this case a broadcast; Court argued that it was imperative for the government
+      to intervene
+    - Also unanimous decision
+    - Law that is in issue with Red Lion is the FCC's fairness doctrine regulations
+      - Goes back to Radio Act 1927
+  - Today 1934 Communications Act is still in place, which set up the FCC to regulate
+    broadcasting radio & television in accordance with public interest, convenience and necessity
+    - Requiring radio licenses are like prior restraint of the public forum
+    - Fairness doctrine: Allows FCC to restrict speech on various intrusive levels
+      - If you attack a person, you have to allow that person to respond within a certain period of time
+      - Rules on political advertising for political candidates as well
+    - FCC v Pacifica: Prohibition on indecency during daylight hours
+  - What does Court say about restriction of broadcasting that is consistent with 1A?
+    - Not everyone can speak on radio (signal chaos if everyone is broadcasting at once),
+      thus classic 1A principles cannot apply here
+    - In order to allow radio medium to be viable as a communications medium, it has to
+      be allocated (there are more people who want to speak than the medium could possibly
+      support); thus those who get the special privilege of communicating on this medium
+      should not get the special powers that come with that to propel their own opinions
+      at the exclusion of others
+    - Counterargument: Everything is scarce, land, ink that goes into newspapers, etc
+      thus there should not be a special exception for the scarcity of radio spectrum;
+      the way we allocate scarcity is through the market
+      - Counter to this counterargument in Red Lions case: Radio spectrum needs to
+        still be a place with multiple points of view
+  - Industry:
+      Newspapers have been a monopoly business in cities even before the Internet
+      There were probably 3-4 TV channels per community
+      Maybe a dozen radio stations per community/city
+    - Why were monopolistic newspapers afforded more protection from the government
+      compared to radios?
+      - There was a way to set up a broadcasting station that did not involve seeking
+        government approval (i.e the market)

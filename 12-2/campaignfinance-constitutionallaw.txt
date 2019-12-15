@@ -1,0 +1,261 @@
+Buckley v Valeo
+  - Case: Federal Election Campaign Act of 1971 has a couple of statutes in question
+    (1) Individual political contributions are limited
+    (2) Contributions above certain threshold levels must be publicly disclosed
+    (3) System for public funding of Presidential campaigns is established
+    (4) FEC is established to administer and enforce the legislation
+  - Court's opinion
+    - Upheld individual contribution limits, disclosure and reporting provisions,
+      and public financing
+    - Invalidated composition of the FEC, and limitations on expenditures
+  - Court's reasoning
+    - Provisions should be viewed as regulating conduct, not speech -> thus the
+      Act itself is constitutional
+    - "Every means of communicating ideas in today's mass society requires the
+      expenditure of money"
+    - Contribution limits are okay
+      - Contribution limits to a candidate or political committee entails "only
+        a marginal restriction upon the contributor's ability to engage in free
+        communication".
+      - The campaigns' spending of contribution money involves
+        speech by someone other than the contributor, and thus does not infringe
+        on the contributor's freedom to discuss candidates and issues
+      - "Neither the right to associate nor the right to participate in political
+        activities is absolute". The State has a legitimate interest to limit
+        contribution limits because of "political quid pro quo" that undermine
+        "our system of representative democracy"
+      - Bribery laws aren't enough in itself, as those are only the most blatant
+        attempts
+    - Expenditure limits are NOT okay
+      - The State does not have a legitimate enough of an interest to prevent
+        corruption and the appearance of corruption in curtailing free speech
+      - Expenditures have "alleviates the danger" of quid pro quo
+      - "The concept that the government may restrict speech of some in order to
+        enhance the relative voice of others is wholly foreign to 1A"
+      - Candidates' personal expenditures cannot b e limited as that is their
+        First Amendment right to engage in discussion of public issues
+      - Furthermore, campaign expenditure limits are also not justified in
+        restricting the quantity of political expression -> "1A denies the gov't
+        the power to determine that spending to promote one's political views
+        is wasteful, excessive, or unwise"
+  - Burger's dissent on contribution limits
+    - "Contributions and expenditures are two sides of the same 1A coin"
+  - White's dissent on expenditure limits
+    - "The argument that money is speech and that limiting the flow of money to
+      the speaker violates the 1A proves entirely too much"
+    - Taxation on newspapers where they could spend the money on speech is
+      widely accepted and constitutionally acceptable
+    - "Expenditure ceilings reinforce the contribution limits and help eradicate
+      the hazard of corruption"
+  - Marshall dissent on expenditure limits:
+    - No expenditure limits "discourage potential candidates without significant
+      personal wealth from entering the political area"
+    - Also undermiens public confidence in the integrity of the electoral process
+
+McConnell v FEC
+  - Case: Bipartisan Campaign Reform Act targeted "soft money", which was activities
+    that influence elections if they mentioned a federal candidate's name as long
+    as the ads did not expressly advocate the candidate's election or defeat
+    - BCRA banned national party committees and their agents from soliciting or
+      spending any soft money
+    - Federal election activity that soft money funds comes in four forms:
+      (1) Voter registration activity during 120 days preceding a scheduled federal election
+      (2) Voter identification and get out the vote (GOTV), also generic campaign
+          activity conducted in connection with an election
+      (3) Any "public communication" that refers to a clearly identified candidate
+          and takes a stance on them
+      (4) Services provided to state committee employee who dedicate 25% of more
+          of their time on election related activities
+  - Court's opinion: BCRA is not unconstitutional limitation of 1A
+    - Court agreed with the ban on soft money
+      - Government has legitimate interest to prevent corruption or its appearance,
+        and thus can justify political contribution limits
+      - Court agrees with Congress that large soft money contributions from national
+        party committees have a corrupting influence
+      - Court also agrees with BCRA's predictive limit on contributions to state
+        party committees as they see state committees as a loophole that would be exploited
+    - Court also upheld the "electioneering communication" ban (any communication
+      made within 60 days of general election funded by corporations or unions)
+  - Justice Scalia's dissent in part
+    - Soft money makes it even handed, which is unfair for challengers to incumbents
+      since incumbents raise much more hard money
+  - Justice Kennedy, Rehnquist, Scalia, Thomas dissent in part
+    - Believes banning soft money goes beyond actual or apparent quid pro quo
+      arrangements, thus overly restrictive of speech
+
+FEC v Wisconsin Right to Life
+  - New conservative majority said that the electioneering communications component
+    only referred to the "'functional equivalent' of express campaign speech",
+    which was constitutionally validated. However, the speech in that case was
+    "genuine" issue ads, which could not be regulated under 1A
+  - The speech was found to be a "genuine" issue ad, and thus was protected by 1A
+  - Dissent claimed that there was no good justification to violate stare decisis
+
+Davis v FEC
+  - Case: "Millionaire's amendment" -- if a candidate spends $350k or more on their
+    own election, then opposing candidate could accept contributions 3x the normal limit.
+  - Court's opinion: Referred to the Buckley case, where a cap on candidate's expenditure
+    was banned. Said that be raising the opponent's contribution limit would disincentivize
+    candidates from spending their own campaign money, thus chilling 1A speech
+  - Dissent is that the personal expenditures of a candidate is not capped, and thus
+    there is no 1A issue here
+
+Arizona Free Enterprise Club v Bennett
+  - Arizona has a public financing scheme for candidates who opt in, where if their
+    opponent raises above a certain limit through private contributions (which
+    is unlimited), then there would be a 1 to 1 public dollar matching
+  - Court decided this was unconstitutional as it again chills private contribution
+    speech by posing a "penalty"
+  - Dissent said that private contributions weren't capped, and also a public
+    financing scheme was also deemed constitutional under Buckley, and also having
+    fair elections was also a legitimate interest of the state
+
+Citizens United v FEC
+  - Case: Citizens United is a nonprofit that released a movie on Hillary Clinton.
+    BCRA bans corporations from making independent expenditures that expressly
+    advocate the election or defeat of a candidate.
+    - Law in question: Federal Law bans corporations and unions from using treasury funds for
+      electioneering communications or for speech expressly advocating defeat/election
+      of a candidate.
+    - McConnell case (which upheld BCRA) relies on the Austin case, which held that
+      political speech may be banned based on speaker's corporate identity
+  - Court's opinion:
+    - Overturns Austin and McConnell
+    - 1A prohibits restrictions distinguishing among different speakers. BCRA
+      only bans corporations and unions from electioneering communications within
+      a certain number of days of an election, but it doesn't ban individuals
+      from doing the same.
+    - "We find no basis for the proposition that, in the context of political speech,
+      the Government may impose restrictions on certain disfavored speakers"
+      - Deprives "disadvantaged persons or class of the right to use specch..."
+    - Finds that 1A protection extends to corporations (Cox Broadcasting, NYT v US,
+      NYT v Sullivan). Thus political speech does not lose 1A protection "simply
+      because its source is a corporation"
+    - Decided to overturn the Austin case
+      - Austin uses the anti-distortion doctrine: "The corrosive and distorting
+        effects of immense aggregations of wealth...have little or no correlation
+        to the public's support for the corporation's ideas"
+      - Court sees that the Buckley argument where the Government has no 1A role
+        in suppressing some speech to equalize it with other speech flies in
+        the face of the anti-distortion doctrine
+      - The corporations, despite getting some special benefits, do not lose their
+        1A rights -> "When Government seeks to use its full power, including the
+        criminal law, to command where a person may get his or her information
+        or what distrusted source he or she may not hear, it uses censorship to
+        control thought. This is unlawful."
+      - Court returns the doctrine back to what was established in Bellotti, where
+        the Government cannot suppress political speech on the basis of the speaker's
+        corporate identity
+      - Thus, the Court also overrules the electioneering communications component
+        of BCRA, and that respective ruling within McConnell
+    - "When Congress finds that a problem exists, we must give that finding due
+      deference; but Congress may not choose an unconstitutional remedy"
+  - Roberts and Alito's concurrence:
+    - Stare decisis is important, but the Austin case conflicts with the Buckley
+      case, and has "proved to be the consistent subject of dispute among
+      Members of this Court ever since"
+  - Justices' Stevens and others Dissent:
+    - They agree that 1A prevents regulatory distinctions based on a speaker's
+      identity, but corporations are fundamentally not people (corporations
+      are not members of our society) and thus this identity-based argument
+      would not apply
+      - There is also widely accepted proof on the corruption of corporation
+        spending in elections, and thus further undermines the identity argument
+    - Austin and McConnell are NOT radical outliers in 1A tradition, as the majority
+      opinion claims those cases to be
+      - This decision overturns a century of 1A precedent
+      - There is no empirical evidence that Austin is undermined, which the majority
+        opinion claims
+      - From an originalist perspective, corporations were quasi-public entities
+        and were clearly distinguished from human beings: "Members of the founding
+        generation held a cautious view of corporate power and a narrow view of
+        corporate rights, and that they conceptualized speech in individualistic terms"
+      - Legislative and judicial jurisprudence starting from the Tillman Act (1907)
+        banning all corporate contributions to candidates, to FECA in 1971 and
+        Buckley, Austin cases
+      - Majority's Bellotti argument is wrong: That case stated that "our consideration
+        of a corporation's right to speak on issues of general public interest
+        implies no comparable right in the quite different context of participation in
+        a political campaign for election to public office" -> Literally disavows
+        the equivalence of a corporate speaker with a human speaker
+    - The government has a legitimate interest in regulating corporate speech in
+      terms of anticorruption
+      - "It is the height of recklessness to dismiss Congress' years of bipartisan
+        deliberation and its reasoned judgment n this basis without first confirming
+        that the statute in question was intended to be a restraint on electoral competition"
+        (which it isn't)
+      - Austin's anti-distortion rationale is itself an anticorruption rationale,
+        thus a legitimate government interest and just an "equalizing" ideal in disguise
+      - Corporations may have a formidable political presence through their treasuries,
+        "even though the power of the corporation may be no reflection of the power
+        of its ideas"
+      - Corporations using treasury money for political purposes go at odds against
+        dissenting shareholders and union members, and there is an established legitimate
+        interest in protecting these members within campaign finance reform
+
+American Tradition Partnership v Bullock
+  - Case: Montana found that their political process tended to be corrupted by
+    mining and energy influences, and thus enacted corporate expenditure restrictions.
+    Montana Supreme Court upheld the law.
+  - Supreme Court overturned the Montana law because it wasn't sufficiently found
+    to be different from Citizen's United.
+
+McCutcheon v FEC
+  - BCRA imposes (1) base limits on contributions to a particular candidate [upheld
+    in Buckley] and (2) aggregate limits to how much a candidate may donate to
+    all candidates
+  - Case: Whether aggregate limits are constitutional under 1A
+  - Court: Ruled that aggregate limits were unconstitutional
+    - Cited Buckley in stating that Congress may regulate campaign contributions
+      to protect against corruption or the appearance of corruption
+    - "Congress may not regulate contributions simply to reduce the amount of
+      money in politics, or to restrict the political participation of some in
+      order to enhance the relative influence of others (Bennett)"
+    - Aggregate limits that adhere to base limit do not prevent additional corruption,
+      since corruption is the only legitimate interest the gov't has in restricting
+      campaign contributions, the aggregate limits fail 1A test
+  - Dissent by Justice Breyer and liberal wing:
+    - The majority's definition of corruption is too narrow, and that maintaining
+      integrity of public government is more important: "Where enough money calls
+      the tune, the general public will not be heard"
+    - Corruption and the presence of large money destroys a free marketplace
+      of political ideas; people will believe their voice have little purpose and
+      "a cynical public can lose interest in political participation altogether"
+
+US Civil Service Commission v National Association of Letter Carriers
+  - Case: Constitutionality of the Hatch Act, which prohibits federal employees
+    from soliciting contributions for a partisan political purpose, taking an
+    active part in a political campaign, soliciting votes for an candidate, or
+    endorsing any candidate
+  - Court: Upheld the Hatch Act: "It is not only important the gov't employees in
+    fact avoid practicing political justice, but also that they appear to the
+    public to be avoiding it, if confidence in the system of representative
+    Government is not to be eroded"
+    - Gov't employees need to be free from voting in a certain way or for
+      performing political chores
+
+Pickering v Board of Education
+  - Teacher dismissed for sending a letter to local newspaper about the recently
+    proposed tax increased. Letter was critical of the Board and district superintendent.
+    Teacher was dismissed.
+  - Court: Held teacher's right to freedom of speech was violated
+    - Reject the notion that government can dismiss employees on matters of
+      public concern
+    - However, if the speech was personal in nature (i.e no on matters of public
+      concern) -- say critical of another teacher's driving, then the government
+      is free to do whatever it wants regarding that employee (Connick v Meyers)
+
+Elrod v Burns
+  - Case: New sheriff was a Democrat. He discharged a bunch of non-civil service
+    employees for not being members of the Democratic Party.
+  - Court: Held this practice unconstitutional
+    - Dismissing employees based on political patronage places a restraint on freedoms
+      of belief and association
+    - Difference of political beliefs does not cause a noticeable drop in productivity,
+      or effective work, thus political patronage is not allowed
+    - Limiting patronage dismissals to policymaking positions to sufficient to
+      achieve this governmental end
+
+Strict Scrutiny -- when challenged restriction has relatively severe effect (Button, Buckley for expenditure limits)
+Intermediate scrutiny -- when challenged restriction has significant, not severe effect (Schneider, Buckley for contribution limits, Martin)
+Deferential scrutiny -- when restriction has relatively modest effect (O'Brien, Heffron)

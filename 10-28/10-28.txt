@@ -1,0 +1,82 @@
+=== Review ===
+
+Hypothetical: Superintendent of the school. Publication that the superintendent
+  is addicted to opioids. Assume that statement is also true.
+  - This isn't defamation or libel because it is true
+  - Cause of action that superintendent may have under these circumstances
+    - Invasion of privacy (tort)
+      - Must show
+          (1) it is something not of value or of public interest
+          (2) highly offensive/embarrassing to the reasonable person
+          (3) must be a private fact (something that isn't already known in public)
+        in order to recover damages
+    - In some states that create cause of action for invasion of privacy
+
+History on Right to Privacy
+  - Sullivan and Girth set up cases around false statements of facts
+  - These concept around damage from true statements of facts come from Hustler v Falwell
+    (tort for intentional infliction of emotional distress)
+    - That case states that statements that are not false that are also mocking
+      and highly embarrassing may cause emotional distress and can be sued for damages
+    - Supreme Court said they could not allow people to sue for emotional damages
+      because of 1A doctrine
+  - The tort (right to sue for damages) originates from 1890 Warren Brandeis published
+    article saying the media has been too fascinated by people's private lives,
+    they are publishing gossip and facts about people that even though are true
+    are highly hurtful to those individuals. They claim this is bad for democracy
+    and for society
+  - There aren't that many right to privacy cases compared to defamation and libel cases
+    - People who sue for privacy reasons make that fact more widely known
+  - Has the Court held that the right to privacy is constitutional?
+    - Court hasn't affirmed it, as the cases have been very narrowly decided
+      (the cases Court has found saw facts are already of public record, and
+      banned the State from prohibiting that speech)
+    - Court hasn't decided on if the facts have been private
+  - Social media and the Internet
+    - Europe v US:
+      - Europe has developed the "right to be forgotten", based on the notion that
+        there should be private facts that should be able to be protected
+      - There is no global court on this, right to be forgotten extending globally
+        is dangerous for other countries who want to take down content for more
+        nefarious reasons
+
+IMPORTANT CASE: Hague v CIO (public forum doctrine)
+
+New hypothetical: March in NYC for impeachment (in public) that brings about clashes. NY
+  city gov't says it's too dangerous and we will not allow any more demonstrations
+  in the city on the issue of impeachment. This society is experiencing a huge amount
+  of stress and division.
+
+  First Amendment issues
+    - Hague v CIO case: The concept of a public forum (public forum doctrine of 1A) states
+      that there are certain public property (in particular streets and parks) that
+      MUST be open to expressive (i.e speech) activities
+      - 1A protects actions as well, including marches and demonstrations
+      - Unlike Commonwealth v Davis, the government cannot decide whether or not to
+        keep streets open
+    - Issue is that this is a ban on a topic that makes it unconstitutional
+      (Mosley case)
+    - Argument that this ban is content neutral because it bans all sides of impeachment
+    - RAV: This ban is not content neutral
+
+  Court said if you are content neutral, we will not expand Hague v CIO to other areas,
+    as it would open a can of worms for what other parts of public property will be subject to it
+    - Time place and manner isn't what actually determines constitutionally, it is
+      content neutrality that determines constitutionality (e.g no impeachment
+      rallies between 3 and 5)
+    - Do the protections on speech increase the more the subject is a public official
+      or do they lessen because the power is greater?
+
+Private property and 1A
+  - Can Bollinger stop any demonstrations from College Walk?
+    - Yes because Columbia is a private university
+  - Commonwealth v Davis: Private property owner, among the rights you have, can
+    decide if people have the ability to come on your property and speak
+
+  - When should, if ever, private property owners be required to make space
+    available for speech?
+    - Company town (company runs the city): Is that business a government
+      for the purposes of 1A? Supreme Court said yes
+    - During suburban transformation of America, should malls be treated like
+      a public square even though malls are privately owned? Court initially said
+      yes but then overturned it later

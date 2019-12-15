@@ -1,0 +1,89 @@
+What speech is legal vs illegal
+  - Clear and present danger, also intent on behalf of speaker
+    - Brandenberg: Who the speech is directed at (i.e intent)
+  - It is IMPORTANT to note that intent factors in how we draw the line
+  - In criminal law
+    - To prosecute someone for a crime, you must prove intent (state of mind)
+  - Espionage Act 1917
+    - Criminal interferes with war conduct
+    - Congress then passed a law saying that advocacy is illegal (not just doing the act)
+      - Should the Courts give more deference to the law in rational judgement or in
+        cases where the law does not expressly prohibit speech?
+      - Argument for: Because the Court is a co-equal branch, their decisions should give
+        deference to the other branches (this includes stuff like 1917 Espionage Act that
+        only criminalizes behavior and has no mention of speech)
+      - Secondary arg: The Court should only give deference to laws that explicitly call
+        out speech or advocacy
+        - This argument has not succeeded and is not followed in case law today
+
+-------
+Make the case that Columbia should ban all hate speech (sexist, homophobic, antisemetic, etc)
+  - The world is already deeply discriminatory to oppressed groups, adding free
+    speech on this would add to that
+  - These ideas and ways of thinking have done horrible things to these groups,
+    and it is important for us to not think that way again
+    - If "let's go back to be Nazis again" speech occur, this must be stopped
+  - Emotional harm is legitimate -- this speech comes at a very high price
+  - There was a period of time when the Supreme Court did not recognize the rights of hate speech
+  - Going around the world, most democracies don't allow hate speech to occur.
+    This shows there is a consensus outside of the US that hate speech goes too far.
+    - Reflected in International Declaration of Human Rights, and other int'l documents & treaties
+      -> They allow and express nations to prohibit hate speech
+  - How to argue against the line-drawing argument? (that drawing lines introduces a slippery slope, etc)
+    - Line drawing is always a problem, but 1A is filled with lines
+
+  - Argument: When people are automatically harmed (violence possible bc it's so offensive)
+    we allow the state to intervene in the speech
+    - Counterargument: The Court has upheld the argument that you can just avert your eyes
+      if something is so offensive to you
+
+-------
+Case: At Columbia we want to voluntarily be consistent with 1A. Thus we want to ban fighting
+  words that are racist and sexist. Since fighting words are not protected, we will
+  ban *these* specific fighting words. Is this okay?
+
+Argument against this rule
+  - RAV case (RAV vs St Paul)
+    - Judgement: A state cannot choose, on the basis of fighting words, to prohibit a narrow segment of fighting words
+    - Gist of RAV: One area the Court is the most sensitive in regards to 1A is how the legislator
+      or the State is choosing to interfere in the marketplace of ideas, and
+      when it goes against a specific viewpoint (say a racist one), the Court
+      will step in to prevent favoring one side of the argument over the other
+    - Consequence of the case is that hate speech is protected
+      - You can't choose to prohibit some hate speech based on some content or whatever
+  - Cohen
+
+Speech that is a personal directed threat is NOT protected by 1A
+  - "I will kill you. Look out you have one day to live"
+
+For Court to avoid completely striking down laws and slapping the other branch in the face,
+  the Court may see words x as meant to be interpreted at y to avoid confronting x
+  as unconstitutional, and hence reinterpreting the statute
+    - Example: Hands' Masses cases. He was interpreting the Espionage Act to the
+      Post Office and trying to discern what was the legislative intent in enacting that
+      law.
+    - His argument was he didn't believe Congress wanted to create a prohibition on speech
+      that would undermine all opinion in a functioning democracy, so thus he
+      interpreted it differently (without striking it down)
+    - In essence, it was just him interpreting the statute, even though it wrote
+      the rules for how 1A operated
+
+Case: WaPo runs an article: "Donald Trump Jr uses cocaine daily". Legal advice before running story
+  - Writer's proof: Received an anonymous call from a voice that sounded trustworthy and facts
+    that seem to add up.
+  - Writer is doing this solely to make a profit
+
+  Argument for running this
+    - NYT v Sullivan
+      - If target of the speech is a public figure, the speech is protected even
+        though it is false, UNLESS there is actual malice (you know it was false
+        when you published it, or you acted in "reckless disregard" of its falsehood)
+    - Public speech about public issues
+    - Hustler v Falwell
+      - Harm to a figure or even emotional harm to the figure is not enough to
+        make speech unprotected
+
+
+  Argument against running this
+    - Malice is also "reckless disregard"
+    -

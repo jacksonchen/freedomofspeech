@@ -1,0 +1,124 @@
+This section is focusing on what types of restrictions are constitutionally permissible
+
+Overbreadth and Vagueness
+  - Gooding v Wilson
+    - Case: During antiwar demonstration, a protestor was in a scuffle with police
+      where he made some threats. Was charged with violating Georgia code stating
+      that anyone who uses abusive language, tending to cause a breach of peace shall be
+      guilty of a misdemeanor.
+    - Court's opinion:
+      - Statutes limiting use of words or language must be narrowly limited (citing Chaplinsky)
+      - Appellant argued that Georgia statute only applies to fighting words,
+        but the Court disagrees and believes that it is too broad
+      - The statute can be applied to utterances where there was "no likelihood
+        that the person addressed would make an immediate violent response, it is
+        clear that the standard allowing juries to determine guilt does not
+        limit the application of [the statute] to fighting words defined in Chaplinsky"
+      - Overbroad statutes will chill constitutionally protected speech because
+        of the "fear of criminal sanctions provided by statute susceptible of
+        application to protected expression"
+  - 1A Overbreadth Doctrine
+    - It tests constitutionality of legislation in terms of its potential applications.
+      Thus banning advocating unlawful conduct would be unconstitutional "on its face"
+      because the law forbids expression that the state may not constitutionally prohibit
+    - Broadly worded laws will deter protected speech, thus this doctrine needs
+      to exist
+    - "There must be a realistic danger that the statute itself will significantly
+      compromise recognized First Amendment protections of parties not before
+      the Court for it to be facially challenged on overbreadth grounds"
+      (Los Angeles City Council v Taxpayers for Vincent)
+  - Vagueness
+    - "A law of void on its face if it is so vague that persons 'of common intelligence
+      must necessarily guess at its meaning and differ as to its applications'"
+      (Connally v General Construction Co)
+    - It inhibits exercising 1A freedom because of the vagueness chills speech
+    - Grayned v City of Rockford: Court rejected vagueness challenge because
+      "we think it is clear what the ordinance as a whole prohibits".
+      The city ordinance stated: "no person, while on public or private grounds
+      adjacent to any building in which a school is in session, shall willfully
+      make noise or diversion which disturbs or tends to disturb the peace or
+      good order of such school"
+    - Smith v Goguen: Banning "treating contemptuously the flag of the US" is
+      too vague ("failed to draw reasonably clear lines between what is criminal
+      and what are not")
+
+Prior Restraint
+  - Patterson v Colorado: Court declared Constitution prohibited "all such previous
+    restraints upon publications as had been practiced by other governments"
+  - Court has steadfastly held that there is a special presumption under 1A against
+    the use of prior restraints
+    - Prior restraint may be invalid even if the expression at issue CAN be restricted
+  - Lovell v Griffin
+    - Case: Lovell was convicted of city ordinance for distributing a pamphlet
+      without getting the necessary permission to do so.
+      The ordinance states that all distribution of literature within the city
+      must require written permission from the city manager
+    - Court's opinion: The ordinance is "invalid on its face". Its character
+      is such that it "strikes at the very foundation of the freedom of the press
+      by subjecting it to license and censorship"
+      - The liberty of the press became initially a right to publish without a license
+    - It is likely the Court shut it down because it is "standardless licensing",
+      i.e no way to verify if denied permits were because of censorship or for
+      legitimate reasons (Kunz v New York)
+  - Cox v New Hampshire: Licensing with standards was upheld by the Court, because
+    there were narrow guidelines that the licensing board could use to deny requests,
+    and those guidelines pertained to proper use of streets and not censorship.
+  - Freeman v Maryland
+    - Case: Freedman violated state motion picture censorship statute by exhibiting a
+      film (which was NOT obscene) without submitting it to the State Board of Censors
+    - Court:
+      - The statute was invalid
+      - Unlike a prosecution for obscenity, a censorship proceeding puts the initial
+        burden on the exhibitor or distributor. A censor's business is to censor,
+        and thus may well be less responsive than a court to constitutionally
+        protect interest in free expression
+      - Court also stated that procedural safeguards were put in place to obviate
+        the dangers of a censorship system, that this would actually be okay.
+        Examples of constitutionally required safeguards:
+        - Burden of proving the film is unprotected expression must rest on the censor
+        - Only a judicial determination in an adversary proceeding can suffice
+          to impose a valid final restraint
+          - Restraint imposed in advance of judicial resolution must be limited
+            to the status quo and be for the shortest fixed period compatible
+        - Censor must, within a brief period, issue a license or go to court to
+          restrain showing the film
+        - Procedure must assure a prompt final judicial decision to minimize the
+          deterrent effect of an interim and erroneous denial of a license
+  - Near v Minnesota
+    - Case: Minnesota statute required the abatement of "malicious, scandalous and
+      defamatory newspaper, magazine, or other periodical." Statute also provided
+      that there "shall be available the defense that the truth was published with
+      good motives and for justifiable ends"
+      - County attorney brought this against the Saturday Press for running an article
+        critical of the chief police, charging him with "gross neglect of duty"
+    - Court's opinion: Statute is unconstitutional
+      - "The protection even as to previous restraint is not absolutely unlimited,
+        but the limitation has been recognized only in exceptional cases"
+      - Examples when prior restraint is granted:
+        - Obstruction of military recruiting
+        - Publication of number and location of troops, or sailing dates of transports
+      - However, this statute does not protect the security of community life, as
+        there are no historical prior restraints against malfeasance of public officers;
+        thus the prior restraint here is unjustified
+      - Furthermore, censorship cannot place the burden on the publisher to show that
+        the matter is true and "published with good motives and for justifiable ends"
+  - Injunctions: More powerful than prior restraint, because of the "collateral bar rule"
+    - People under injunction have no ability to persuade court of statute's
+      unconstitutionality; they are expected to obey the decree until it is modified
+      or reversed (Walker v City of Birmingham - Restraining order from street parades)
+    - Targeted at specific people, rather than ordinances are more generally applied
+    - Pittsburgh Press Co v Pittsburgh Commission on Human Relations
+      - Case: Pittsburgh Press violated ordinance by displaying "help wanted"
+        advertisements designating job preference by sex. City ordered the newspaper
+        from carrying sex-designated ads in the future.
+      - Court: Upheld the order
+        - "We have never held that all injunctions are impermissible"
+        - The present order does not endanger arguably protected speech
+    - Madsen v Women's Health Center
+      - Court held that injunction prohibiting particular individuals from demonstrating
+        within 36 feet of an abortion clinic was not "prior restraint" because
+        the injunction was issued NOT because of expression but because of "prior
+        unlawful conduct"
+      - Court held that content-neutral injunctions are not prior restraints, but
+        nevertheless should be tested by more rigorous standards because injunctions
+        carry greater risks of censorship and discriminatory application than general ordinances

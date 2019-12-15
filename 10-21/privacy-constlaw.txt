@@ -1,0 +1,41 @@
+Privacy
+  - Expansion of the Pentagon Papers case where the gov't basically doesn't have
+    much prior restraint over newspapers
+  - Expanded to include even confidential info about pending investigations
+    (Landmark Communications v Virginia) by saying the gov't should have better
+    internal procedures
+  - Is there anything so private and non-newsworthy that can be constitutionally restricted?
+
+Cox Broadcasting Corp v Cohn
+  - Case: A girl died from a rape, and her identity was not disclosed pending trial.
+    In the courtroom, a reporter learned the name of the victim by reading the
+    publicly-available indictment records. The name of the victim was reported on Cox.
+    Cox claimed they were privileged under 1st and 14th Amendments.
+  - Question: Whether a State may extend a cause of action for damages for invasion
+    of privacy caused by publication of the name of a deceased rape victim,
+    who was publicly revealed in connection with the prosecution of the crime
+  - Court: State may NOT pursue charges for newspapers publishing publicly-accessible
+    sensitive information
+    - The function of the press serves to guarantee "the fairness of trials and to
+      bring to bear the beneficial effects of public scrutiny upon the administration
+      of justice".
+      - Any detail pertaining to the trial is of public concern, and is a responsibility
+        of the press to report
+    - When information already appears on public record, the "interests in privacy fade"
+      - "By placing the information in the public domain on official court records,
+        the State must have presumed to have concluded that the public interest was
+        thereby being served"
+      - It is the responsibility of the State to prevent documents that it doesn't
+        want published from leaking
+    - None of the words conflict with the fighting words doctrine (Chaplinsky)
+
+If the information was obtained unlawfully: Bartnicki v Vopper
+  - Case: Radio station aired a tape of a conversation received from an anonymous source.
+    The station knew the tape was procured illegally.
+  - Court:
+    - State could not stop the radio station from publishing because the call was
+      a matter of public concern (collective bargaining negotiations), and the
+      broadcaster had not participated directly in the unlawful interception
+      (despite knowing that it was illegally procured)
+    - "Privacy concerns give way when balanced against the interest of publishing
+      matters of public importance"
